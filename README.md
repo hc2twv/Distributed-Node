@@ -1,9 +1,6 @@
-Reactive Kafka Activator template
+Distributed Node - WSN Simulation
 ===============================
 
-[![Build Status](https://travis-ci.org/softwaremill/activator-reactive-kafka-scala.svg?branch=master)](https://travis-ci.org/softwaremill/activator-reactive-kafka-scala)
+In thi project, we have 30 Nodes and The core of the simulation. "Distributed Node" (DisApp)
 
-Demonstrates Akka streams wrapper for Apache Kafka: https://github.com/softwaremill/reactive-kafka
-
-For full description check the [tutorial](https://www.typesafe.com/activator/template/reactive-kafka-scala).
-See [library documentation](http://doc.akka.io/docs/akka-stream-kafka/current/home.html) for more examples.
+It uses Producers and Consumers to handle the Kafka Cluster -> The Core of the communication. 
