@@ -1,0 +1,1539 @@
+New log file opened at Fri Dec 16 20:52:34 CET 2016 by 4349@Washington.local
+		tried /Users/hc2twv/Documents/activator/repository/net.java.dev.jna/jna/4.1.0/srcs/jna-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/net.java.dev.jna/jna/4.1.0/docs/jna-javadoc.jar
+		tried https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.1.0/jna-4.1.0-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.1.0/jna-4.1.0-sources.jar ...
+downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.1.0/jna-4.1.0-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.1.0/jna-4.1.0-sources.jar
+	public: downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.1.0/jna-4.1.0-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.1.0/jna-4.1.0-sources.jar
+Read from stdout: 	[SUCCESSFUL ] net.java.dev.jna#jna;4.1.0!jna.jar(src) (433ms)
+	[SUCCESSFUL ] net.java.dev.jna#jna;4.1.0!jna.jar(src) (433ms)
+		tried https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.1.0/jna-4.1.0-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.1.0/jna-4.1.0-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.1.0/jna-4.1.0-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.1.0/jna-4.1.0-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.1.0/jna-4.1.0-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.1.0/jna-4.1.0-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] net.java.dev.jna#jna;4.1.0!jna.jar(doc) (734ms)
+	[SUCCESSFUL ] net.java.dev.jna#jna;4.1.0!jna.jar(doc) (734ms)
+		tried /Users/hc2twv/.ivy2/local/net.java.dev.jna/jna-platform/4.1.0/srcs/jna-platform-sources.jar
+		tried /Users/hc2twv/.ivy2/local/net.java.dev.jna/jna-platform/4.1.0/docs/jna-platform-javadoc.jar
+	[NOT REQUIRED] net.java.dev.jna#jna-platform;4.1.0!jna-platform.jar
+		tried /Users/hc2twv/.activator/repository/net.java.dev.jna/jna-platform/4.1.0/srcs/jna-platform-sources.jar
+		tried /Users/hc2twv/.activator/repository/net.java.dev.jna/jna-platform/4.1.0/docs/jna-platform-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/net.java.dev.jna/jna-platform/4.1.0/srcs/jna-platform-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/net.java.dev.jna/jna-platform/4.1.0/docs/jna-platform-javadoc.jar
+		tried https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0-sources.jar ...
+downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0-sources.jar
+	public: downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0-sources.jar
+Read from stdout: 	[SUCCESSFUL ] net.java.dev.jna#jna-platform;4.1.0!jna-platform.jar(src) (284ms)
+	[SUCCESSFUL ] net.java.dev.jna#jna-platform;4.1.0!jna-platform.jar(src) (284ms)
+		tried https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] net.java.dev.jna#jna-platform;4.1.0!jna-platform.jar(doc) (719ms)
+	[SUCCESSFUL ] net.java.dev.jna#jna-platform;4.1.0!jna-platform.jar(doc) (719ms)
+		tried /Users/hc2twv/.ivy2/local/org.seleniumhq.selenium/selenium-edge-driver/2.48.2/docs/selenium-edge-driver-javadoc.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-edge-driver;2.48.2!selenium-edge-driver.jar
+		tried /Users/hc2twv/.ivy2/local/org.seleniumhq.selenium/selenium-edge-driver/2.48.2/srcs/selenium-edge-driver-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.seleniumhq.selenium/selenium-edge-driver/2.48.2/docs/selenium-edge-driver-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.seleniumhq.selenium/selenium-edge-driver/2.48.2/srcs/selenium-edge-driver-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.seleniumhq.selenium/selenium-edge-driver/2.48.2/docs/selenium-edge-driver-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.seleniumhq.selenium/selenium-edge-driver/2.48.2/srcs/selenium-edge-driver-sources.jar
+		tried https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/2.48.2/selenium-edge-driver-2.48.2-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/2.48.2/selenium-edge-driver-2.48.2-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/2.48.2/selenium-edge-driver-2.48.2-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/2.48.2/selenium-edge-driver-2.48.2-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/2.48.2/selenium-edge-driver-2.48.2-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/2.48.2/selenium-edge-driver-2.48.2-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-edge-driver;2.48.2!selenium-edge-driver.jar(doc) (200ms)
+	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-edge-driver;2.48.2!selenium-edge-driver.jar(doc) (200ms)
+		tried https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/2.48.2/selenium-edge-driver-2.48.2-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/2.48.2/selenium-edge-driver-2.48.2-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/2.48.2/selenium-edge-driver-2.48.2-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/2.48.2/selenium-edge-driver-2.48.2-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/2.48.2/selenium-edge-driver-2.48.2-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/2.48.2/selenium-edge-driver-2.48.2-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-edge-driver;2.48.2!selenium-edge-driver.jar(src) (207ms)
+	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-edge-driver;2.48.2!selenium-edge-driver.jar(src) (207ms)
+		tried /Users/hc2twv/.ivy2/local/org.seleniumhq.selenium/selenium-htmlunit-driver/2.48.2/docs/selenium-htmlunit-driver-javadoc.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-htmlunit-driver;2.48.2!selenium-htmlunit-driver.jar
+		tried /Users/hc2twv/.ivy2/local/org.seleniumhq.selenium/selenium-htmlunit-driver/2.48.2/srcs/selenium-htmlunit-driver-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.seleniumhq.selenium/selenium-htmlunit-driver/2.48.2/docs/selenium-htmlunit-driver-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.seleniumhq.selenium/selenium-htmlunit-driver/2.48.2/srcs/selenium-htmlunit-driver-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.seleniumhq.selenium/selenium-htmlunit-driver/2.48.2/docs/selenium-htmlunit-driver-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.seleniumhq.selenium/selenium-htmlunit-driver/2.48.2/srcs/selenium-htmlunit-driver-sources.jar
+		tried https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-htmlunit-driver/2.48.2/selenium-htmlunit-driver-2.48.2-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-htmlunit-driver/2.48.2/selenium-htmlunit-driver-2.48.2-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-htmlunit-driver/2.48.2/selenium-htmlunit-driver-2.48.2-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-htmlunit-driver/2.48.2/selenium-htmlunit-driver-2.48.2-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-htmlunit-driver/2.48.2/selenium-htmlunit-driver-2.48.2-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-htmlunit-driver/2.48.2/selenium-htmlunit-driver-2.48.2-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-htmlunit-driver;2.48.2!selenium-htmlunit-driver.jar(doc) (203ms)
+	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-htmlunit-driver;2.48.2!selenium-htmlunit-driver.jar(doc) (203ms)
+		tried https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-htmlunit-driver/2.48.2/selenium-htmlunit-driver-2.48.2-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-htmlunit-driver/2.48.2/selenium-htmlunit-driver-2.48.2-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-htmlunit-driver/2.48.2/selenium-htmlunit-driver-2.48.2-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-htmlunit-driver/2.48.2/selenium-htmlunit-driver-2.48.2-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-htmlunit-driver/2.48.2/selenium-htmlunit-driver-2.48.2-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-htmlunit-driver/2.48.2/selenium-htmlunit-driver-2.48.2-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-htmlunit-driver;2.48.2!selenium-htmlunit-driver.jar(src) (209ms)
+	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-htmlunit-driver;2.48.2!selenium-htmlunit-driver.jar(src) (209ms)
+		tried /Users/hc2twv/.ivy2/local/org.seleniumhq.selenium/selenium-support/2.48.2/srcs/selenium-support-sources.jar
+		tried /Users/hc2twv/.ivy2/local/org.seleniumhq.selenium/selenium-support/2.48.2/docs/selenium-support-javadoc.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-support;2.48.2!selenium-support.jar
+		tried /Users/hc2twv/.activator/repository/org.seleniumhq.selenium/selenium-support/2.48.2/srcs/selenium-support-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.seleniumhq.selenium/selenium-support/2.48.2/docs/selenium-support-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.seleniumhq.selenium/selenium-support/2.48.2/srcs/selenium-support-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.seleniumhq.selenium/selenium-support/2.48.2/docs/selenium-support-javadoc.jar
+		tried https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-support/2.48.2/selenium-support-2.48.2-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-support/2.48.2/selenium-support-2.48.2-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-support/2.48.2/selenium-support-2.48.2-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-support/2.48.2/selenium-support-2.48.2-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-support/2.48.2/selenium-support-2.48.2-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-support/2.48.2/selenium-support-2.48.2-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-support;2.48.2!selenium-support.jar(src) (206ms)
+	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-support;2.48.2!selenium-support.jar(src) (206ms)
+		tried https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-support/2.48.2/selenium-support-2.48.2-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-support/2.48.2/selenium-support-2.48.2-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-support/2.48.2/selenium-support-2.48.2-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-support/2.48.2/selenium-support-2.48.2-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-support/2.48.2/selenium-support-2.48.2-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-support/2.48.2/selenium-support-2.48.2-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-support;2.48.2!selenium-support.jar(doc) (279ms)
+	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-support;2.48.2!selenium-support.jar(doc) (279ms)
+		tried /Users/hc2twv/.ivy2/local/org.seleniumhq.selenium/selenium-firefox-driver/2.48.2/docs/selenium-firefox-driver-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.seleniumhq.selenium/selenium-firefox-driver/2.48.2/srcs/selenium-firefox-driver-sources.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-firefox-driver;2.48.2!selenium-firefox-driver.jar
+		tried /Users/hc2twv/.activator/repository/org.seleniumhq.selenium/selenium-firefox-driver/2.48.2/docs/selenium-firefox-driver-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.seleniumhq.selenium/selenium-firefox-driver/2.48.2/srcs/selenium-firefox-driver-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.seleniumhq.selenium/selenium-firefox-driver/2.48.2/docs/selenium-firefox-driver-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.seleniumhq.selenium/selenium-firefox-driver/2.48.2/srcs/selenium-firefox-driver-sources.jar
+		tried https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/2.48.2/selenium-firefox-driver-2.48.2-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/2.48.2/selenium-firefox-driver-2.48.2-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/2.48.2/selenium-firefox-driver-2.48.2-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/2.48.2/selenium-firefox-driver-2.48.2-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/2.48.2/selenium-firefox-driver-2.48.2-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/2.48.2/selenium-firefox-driver-2.48.2-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-firefox-driver;2.48.2!selenium-firefox-driver.jar(doc) (215ms)
+	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-firefox-driver;2.48.2!selenium-firefox-driver.jar(doc) (215ms)
+		tried https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/2.48.2/selenium-firefox-driver-2.48.2-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/2.48.2/selenium-firefox-driver-2.48.2-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/2.48.2/selenium-firefox-driver-2.48.2-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/2.48.2/selenium-firefox-driver-2.48.2-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/2.48.2/selenium-firefox-driver-2.48.2-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/2.48.2/selenium-firefox-driver-2.48.2-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-firefox-driver;2.48.2!selenium-firefox-driver.jar(src) (207ms)
+	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-firefox-driver;2.48.2!selenium-firefox-driver.jar(src) (207ms)
+		tried /Users/hc2twv/.ivy2/local/org.seleniumhq.selenium/selenium-ie-driver/2.48.2/docs/selenium-ie-driver-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.seleniumhq.selenium/selenium-ie-driver/2.48.2/srcs/selenium-ie-driver-sources.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-ie-driver;2.48.2!selenium-ie-driver.jar
+		tried /Users/hc2twv/.activator/repository/org.seleniumhq.selenium/selenium-ie-driver/2.48.2/docs/selenium-ie-driver-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.seleniumhq.selenium/selenium-ie-driver/2.48.2/srcs/selenium-ie-driver-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.seleniumhq.selenium/selenium-ie-driver/2.48.2/docs/selenium-ie-driver-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.seleniumhq.selenium/selenium-ie-driver/2.48.2/srcs/selenium-ie-driver-sources.jar
+		tried https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.48.2/selenium-ie-driver-2.48.2-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.48.2/selenium-ie-driver-2.48.2-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.48.2/selenium-ie-driver-2.48.2-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.48.2/selenium-ie-driver-2.48.2-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.48.2/selenium-ie-driver-2.48.2-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.48.2/selenium-ie-driver-2.48.2-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-ie-driver;2.48.2!selenium-ie-driver.jar(doc) (213ms)
+	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-ie-driver;2.48.2!selenium-ie-driver.jar(doc) (213ms)
+		tried https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.48.2/selenium-ie-driver-2.48.2-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.48.2/selenium-ie-driver-2.48.2-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.48.2/selenium-ie-driver-2.48.2-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.48.2/selenium-ie-driver-2.48.2-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.48.2/selenium-ie-driver-2.48.2-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/2.48.2/selenium-ie-driver-2.48.2-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-ie-driver;2.48.2!selenium-ie-driver.jar(src) (236ms)
+	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-ie-driver;2.48.2!selenium-ie-driver.jar(src) (236ms)
+		tried /Users/hc2twv/.ivy2/local/org.seleniumhq.selenium/selenium-safari-driver/2.48.2/srcs/selenium-safari-driver-sources.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-safari-driver;2.48.2!selenium-safari-driver.jar
+		tried /Users/hc2twv/.ivy2/local/org.seleniumhq.selenium/selenium-safari-driver/2.48.2/docs/selenium-safari-driver-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.seleniumhq.selenium/selenium-safari-driver/2.48.2/srcs/selenium-safari-driver-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.seleniumhq.selenium/selenium-safari-driver/2.48.2/docs/selenium-safari-driver-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.seleniumhq.selenium/selenium-safari-driver/2.48.2/srcs/selenium-safari-driver-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.seleniumhq.selenium/selenium-safari-driver/2.48.2/docs/selenium-safari-driver-javadoc.jar
+		tried https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/2.48.2/selenium-safari-driver-2.48.2-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/2.48.2/selenium-safari-driver-2.48.2-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/2.48.2/selenium-safari-driver-2.48.2-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/2.48.2/selenium-safari-driver-2.48.2-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/2.48.2/selenium-safari-driver-2.48.2-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/2.48.2/selenium-safari-driver-2.48.2-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-safari-driver;2.48.2!selenium-safari-driver.jar(src) (202ms)
+	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-safari-driver;2.48.2!selenium-safari-driver.jar(src) (202ms)
+		tried https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/2.48.2/selenium-safari-driver-2.48.2-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/2.48.2/selenium-safari-driver-2.48.2-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/2.48.2/selenium-safari-driver-2.48.2-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/2.48.2/selenium-safari-driver-2.48.2-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/2.48.2/selenium-safari-driver-2.48.2-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/2.48.2/selenium-safari-driver-2.48.2-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-safari-driver;2.48.2!selenium-safari-driver.jar(doc) (200ms)
+	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-safari-driver;2.48.2!selenium-safari-driver.jar(doc) (200ms)
+		tried /Users/hc2twv/.ivy2/local/org.webbitserver/webbit/0.4.14/srcs/webbit-sources.jar
+		tried /Users/hc2twv/.ivy2/local/org.webbitserver/webbit/0.4.14/docs/webbit-javadoc.jar
+	[NOT REQUIRED] org.webbitserver#webbit;0.4.14!webbit.jar
+		tried /Users/hc2twv/.activator/repository/org.webbitserver/webbit/0.4.14/srcs/webbit-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.webbitserver/webbit/0.4.14/docs/webbit-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.webbitserver/webbit/0.4.14/srcs/webbit-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.webbitserver/webbit/0.4.14/docs/webbit-javadoc.jar
+		tried https://repo1.maven.org/maven2/org/webbitserver/webbit/0.4.14/webbit-0.4.14-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/webbitserver/webbit/0.4.14/webbit-0.4.14-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/webbitserver/webbit/0.4.14/webbit-0.4.14-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/webbitserver/webbit/0.4.14/webbit-0.4.14-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/webbitserver/webbit/0.4.14/webbit-0.4.14-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/webbitserver/webbit/0.4.14/webbit-0.4.14-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.webbitserver#webbit;0.4.14!webbit.jar(src) (205ms)
+	[SUCCESSFUL ] org.webbitserver#webbit;0.4.14!webbit.jar(src) (205ms)
+		tried https://repo1.maven.org/maven2/org/webbitserver/webbit/0.4.14/webbit-0.4.14-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/webbitserver/webbit/0.4.14/webbit-0.4.14-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/webbitserver/webbit/0.4.14/webbit-0.4.14-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/webbitserver/webbit/0.4.14/webbit-0.4.14-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/webbitserver/webbit/0.4.14/webbit-0.4.14-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/webbitserver/webbit/0.4.14/webbit-0.4.14-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.webbitserver#webbit;0.4.14!webbit.jar(doc) (291ms)
+	[SUCCESSFUL ] org.webbitserver#webbit;0.4.14!webbit.jar(doc) (291ms)
+		tried /Users/hc2twv/.ivy2/local/org.seleniumhq.selenium/selenium-leg-rc/2.48.2/srcs/selenium-leg-rc-sources.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-leg-rc;2.48.2!selenium-leg-rc.jar
+		tried /Users/hc2twv/.ivy2/local/org.seleniumhq.selenium/selenium-leg-rc/2.48.2/docs/selenium-leg-rc-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.seleniumhq.selenium/selenium-leg-rc/2.48.2/srcs/selenium-leg-rc-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.seleniumhq.selenium/selenium-leg-rc/2.48.2/docs/selenium-leg-rc-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.seleniumhq.selenium/selenium-leg-rc/2.48.2/srcs/selenium-leg-rc-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.seleniumhq.selenium/selenium-leg-rc/2.48.2/docs/selenium-leg-rc-javadoc.jar
+		tried https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-leg-rc/2.48.2/selenium-leg-rc-2.48.2-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-leg-rc/2.48.2/selenium-leg-rc-2.48.2-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-leg-rc/2.48.2/selenium-leg-rc-2.48.2-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-leg-rc/2.48.2/selenium-leg-rc-2.48.2-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-leg-rc/2.48.2/selenium-leg-rc-2.48.2-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-leg-rc/2.48.2/selenium-leg-rc-2.48.2-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-leg-rc;2.48.2!selenium-leg-rc.jar(src) (220ms)
+	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-leg-rc;2.48.2!selenium-leg-rc.jar(src) (220ms)
+		tried https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-leg-rc/2.48.2/selenium-leg-rc-2.48.2-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-leg-rc/2.48.2/selenium-leg-rc-2.48.2-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-leg-rc/2.48.2/selenium-leg-rc-2.48.2-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-leg-rc/2.48.2/selenium-leg-rc-2.48.2-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-leg-rc/2.48.2/selenium-leg-rc-2.48.2-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-leg-rc/2.48.2/selenium-leg-rc-2.48.2-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-leg-rc;2.48.2!selenium-leg-rc.jar(doc) (333ms)
+	[SUCCESSFUL ] org.seleniumhq.selenium#selenium-leg-rc;2.48.2!selenium-leg-rc.jar(doc) (333ms)
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.play/play-omnidoc_2.11/2.5.9/srcs/play-omnidoc_2.11-sources.jar
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.play/play-omnidoc_2.11/2.5.9/docs/play-omnidoc_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.play/play-omnidoc_2.11/2.5.9/srcs/play-omnidoc_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.play/play-omnidoc_2.11/2.5.9/docs/play-omnidoc_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.play/play-omnidoc_2.11/2.5.9/srcs/play-omnidoc_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.play/play-omnidoc_2.11/2.5.9/docs/play-omnidoc_2.11-javadoc.jar
+		tried https://repo1.maven.org/maven2/com/typesafe/play/play-omnidoc_2.11/2.5.9/play-omnidoc_2.11-2.5.9-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-omnidoc_2.11/2.5.9/play-omnidoc_2.11-2.5.9-sources.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/play/play-omnidoc_2.11/2.5.9/play-omnidoc_2.11-2.5.9-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-omnidoc_2.11/2.5.9/play-omnidoc_2.11-2.5.9-sources.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-omnidoc_2.11/2.5.9/play-omnidoc_2.11-2.5.9-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-omnidoc_2.11/2.5.9/play-omnidoc_2.11-2.5.9-sources.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.play#play-omnidoc_2.11;2.5.9!play-omnidoc_2.11.jar(src) (198ms)
+	[SUCCESSFUL ] com.typesafe.play#play-omnidoc_2.11;2.5.9!play-omnidoc_2.11.jar(src) (198ms)
+		tried https://repo1.maven.org/maven2/com/typesafe/play/play-omnidoc_2.11/2.5.9/play-omnidoc_2.11-2.5.9-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-omnidoc_2.11/2.5.9/play-omnidoc_2.11-2.5.9-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/play/play-omnidoc_2.11/2.5.9/play-omnidoc_2.11-2.5.9-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-omnidoc_2.11/2.5.9/play-omnidoc_2.11-2.5.9-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-omnidoc_2.11/2.5.9/play-omnidoc_2.11-2.5.9-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-omnidoc_2.11/2.5.9/play-omnidoc_2.11-2.5.9-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.play#play-omnidoc_2.11;2.5.9!play-omnidoc_2.11.jar(doc) (195ms)
+	[SUCCESSFUL ] com.typesafe.play#play-omnidoc_2.11;2.5.9!play-omnidoc_2.11.jar(doc) (195ms)
+	[NOT REQUIRED] org.scala-lang#scala-library;2.11.7!scala-library.jar
+	[NOT REQUIRED] org.scala-lang#scala-library;2.11.7!scala-library.jar(src)
+	[NOT REQUIRED] org.scala-lang#scala-library;2.11.7!scala-library.jar(doc)
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.play/play-docs_2.11/2.5.9/docs/play-docs_2.11-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.play/play-docs_2.11/2.5.9/srcs/play-docs_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.play/play-docs_2.11/2.5.9/docs/play-docs_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.play/play-docs_2.11/2.5.9/srcs/play-docs_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.play/play-docs_2.11/2.5.9/docs/play-docs_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.play/play-docs_2.11/2.5.9/srcs/play-docs_2.11-sources.jar
+		tried https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.9/play-docs_2.11-2.5.9-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.9/play-docs_2.11-2.5.9-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.9/play-docs_2.11-2.5.9-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.9/play-docs_2.11-2.5.9-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.9/play-docs_2.11-2.5.9-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.9/play-docs_2.11-2.5.9-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.play#play-docs_2.11;2.5.9!play-docs_2.11.jar(doc) (507ms)
+	[SUCCESSFUL ] com.typesafe.play#play-docs_2.11;2.5.9!play-docs_2.11.jar(doc) (507ms)
+		tried https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.9/play-docs_2.11-2.5.9-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.9/play-docs_2.11-2.5.9-sources.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.9/play-docs_2.11-2.5.9-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.9/play-docs_2.11-2.5.9-sources.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.9/play-docs_2.11-2.5.9-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-docs_2.11/2.5.9/play-docs_2.11-2.5.9-sources.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.play#play-docs_2.11;2.5.9!play-docs_2.11.jar(src) (497ms)
+	[SUCCESSFUL ] com.typesafe.play#play-docs_2.11;2.5.9!play-docs_2.11.jar(src) (497ms)
+	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.7!scala-reflect.jar(src)
+	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.7!scala-reflect.jar(doc)
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.akka/akka-stream_2.11/2.4.10/docs/akka-stream_2.11-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.akka/akka-stream_2.11/2.4.10/srcs/akka-stream_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.akka/akka-stream_2.11/2.4.10/docs/akka-stream_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.akka/akka-stream_2.11/2.4.10/srcs/akka-stream_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.akka/akka-stream_2.11/2.4.10/docs/akka-stream_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.akka/akka-stream_2.11/2.4.10/srcs/akka-stream_2.11-sources.jar
+		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.10/akka-stream_2.11-2.4.10-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.10/akka-stream_2.11-2.4.10-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.10/akka-stream_2.11-2.4.10-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.10/akka-stream_2.11-2.4.10-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.10/akka-stream_2.11-2.4.10-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.10/akka-stream_2.11-2.4.10-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.akka#akka-stream_2.11;2.4.10!akka-stream_2.11.jar(doc) (2245ms)
+	[SUCCESSFUL ] com.typesafe.akka#akka-stream_2.11;2.4.10!akka-stream_2.11.jar(doc) (2245ms)
+		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.10/akka-stream_2.11-2.4.10-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.10/akka-stream_2.11-2.4.10-sources.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.10/akka-stream_2.11-2.4.10-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.10/akka-stream_2.11-2.4.10-sources.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.10/akka-stream_2.11-2.4.10-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/2.4.10/akka-stream_2.11-2.4.10-sources.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.akka#akka-stream_2.11;2.4.10!akka-stream_2.11.jar(src) (712ms)
+	[SUCCESSFUL ] com.typesafe.akka#akka-stream_2.11;2.4.10!akka-stream_2.11.jar(src) (712ms)
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.akka/akka-actor_2.11/2.4.10/srcs/akka-actor_2.11-sources.jar
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.akka/akka-actor_2.11/2.4.10/docs/akka-actor_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.akka/akka-actor_2.11/2.4.10/srcs/akka-actor_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.akka/akka-actor_2.11/2.4.10/docs/akka-actor_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.akka/akka-actor_2.11/2.4.10/srcs/akka-actor_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.akka/akka-actor_2.11/2.4.10/docs/akka-actor_2.11-javadoc.jar
+		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.4.10/akka-actor_2.11-2.4.10-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.4.10/akka-actor_2.11-2.4.10-sources.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.4.10/akka-actor_2.11-2.4.10-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.4.10/akka-actor_2.11-2.4.10-sources.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.4.10/akka-actor_2.11-2.4.10-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.4.10/akka-actor_2.11-2.4.10-sources.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.11;2.4.10!akka-actor_2.11.jar(src) (288ms)
+	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.11;2.4.10!akka-actor_2.11.jar(src) (288ms)
+		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.4.10/akka-actor_2.11-2.4.10-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.4.10/akka-actor_2.11-2.4.10-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.4.10/akka-actor_2.11-2.4.10-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.4.10/akka-actor_2.11-2.4.10-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.4.10/akka-actor_2.11-2.4.10-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.4.10/akka-actor_2.11-2.4.10-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.11;2.4.10!akka-actor_2.11.jar(doc) (923ms)
+	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.11;2.4.10!akka-actor_2.11.jar(doc) (923ms)
+	[NOT REQUIRED] com.typesafe#ssl-config-akka_2.11;0.2.1!ssl-config-akka_2.11.jar(src)
+	[NOT REQUIRED] com.typesafe#ssl-config-akka_2.11;0.2.1!ssl-config-akka_2.11.jar(doc)
+		tried /Users/hc2twv/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.1/docs/scala-xml_2.11-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.1/srcs/scala-xml_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-lang.modules/scala-xml_2.11/1.0.1/docs/scala-xml_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-lang.modules/scala-xml_2.11/1.0.1/srcs/scala-xml_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-lang.modules/scala-xml_2.11/1.0.1/docs/scala-xml_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-lang.modules/scala-xml_2.11/1.0.1/srcs/scala-xml_2.11-sources.jar
+		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar(doc) (402ms)
+	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar(doc) (402ms)
+		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar(src) (214ms)
+	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar(src) (214ms)
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.akka/akka-slf4j_2.11/2.4.10/srcs/akka-slf4j_2.11-sources.jar
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.akka/akka-slf4j_2.11/2.4.10/docs/akka-slf4j_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.akka/akka-slf4j_2.11/2.4.10/srcs/akka-slf4j_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.akka/akka-slf4j_2.11/2.4.10/docs/akka-slf4j_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.akka/akka-slf4j_2.11/2.4.10/srcs/akka-slf4j_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.akka/akka-slf4j_2.11/2.4.10/docs/akka-slf4j_2.11-javadoc.jar
+		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.10/akka-slf4j_2.11-2.4.10-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.10/akka-slf4j_2.11-2.4.10-sources.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.10/akka-slf4j_2.11-2.4.10-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.10/akka-slf4j_2.11-2.4.10-sources.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.10/akka-slf4j_2.11-2.4.10-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.10/akka-slf4j_2.11-2.4.10-sources.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.akka#akka-slf4j_2.11;2.4.10!akka-slf4j_2.11.jar(src) (202ms)
+	[SUCCESSFUL ] com.typesafe.akka#akka-slf4j_2.11;2.4.10!akka-slf4j_2.11.jar(src) (202ms)
+		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.10/akka-slf4j_2.11-2.4.10-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.10/akka-slf4j_2.11-2.4.10-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.10/akka-slf4j_2.11-2.4.10-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.10/akka-slf4j_2.11-2.4.10-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.10/akka-slf4j_2.11-2.4.10-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.11/2.4.10/akka-slf4j_2.11-2.4.10-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.akka#akka-slf4j_2.11;2.4.10!akka-slf4j_2.11.jar(doc) (205ms)
+	[SUCCESSFUL ] com.typesafe.akka#akka-slf4j_2.11;2.4.10!akka-slf4j_2.11.jar(doc) (205ms)
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.play/play-doc_2.11/1.2.2/docs/play-doc_2.11-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.play/play-doc_2.11/1.2.2/srcs/play-doc_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.play/play-doc_2.11/1.2.2/docs/play-doc_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.play/play-doc_2.11/1.2.2/srcs/play-doc_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.play/play-doc_2.11/1.2.2/docs/play-doc_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.play/play-doc_2.11/1.2.2/srcs/play-doc_2.11-sources.jar
+		tried https://repo1.maven.org/maven2/com/typesafe/play/play-doc_2.11/1.2.2/play-doc_2.11-1.2.2-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-doc_2.11/1.2.2/play-doc_2.11-1.2.2-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/play/play-doc_2.11/1.2.2/play-doc_2.11-1.2.2-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-doc_2.11/1.2.2/play-doc_2.11-1.2.2-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-doc_2.11/1.2.2/play-doc_2.11-1.2.2-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-doc_2.11/1.2.2/play-doc_2.11-1.2.2-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.play#play-doc_2.11;1.2.2!play-doc_2.11.jar(doc) (270ms)
+	[SUCCESSFUL ] com.typesafe.play#play-doc_2.11;1.2.2!play-doc_2.11.jar(doc) (270ms)
+		tried https://repo1.maven.org/maven2/com/typesafe/play/play-doc_2.11/1.2.2/play-doc_2.11-1.2.2-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-doc_2.11/1.2.2/play-doc_2.11-1.2.2-sources.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/play/play-doc_2.11/1.2.2/play-doc_2.11-1.2.2-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-doc_2.11/1.2.2/play-doc_2.11-1.2.2-sources.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/play-doc_2.11/1.2.2/play-doc_2.11-1.2.2-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/play-doc_2.11/1.2.2/play-doc_2.11-1.2.2-sources.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.play#play-doc_2.11;1.2.2!play-doc_2.11.jar(src) (209ms)
+	[SUCCESSFUL ] com.typesafe.play#play-doc_2.11;1.2.2!play-doc_2.11.jar(src) (209ms)
+		tried /Users/hc2twv/.ivy2/local/org.pegdown/pegdown/1.4.0/srcs/pegdown-sources.jar
+		tried /Users/hc2twv/.ivy2/local/org.pegdown/pegdown/1.4.0/docs/pegdown-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.pegdown/pegdown/1.4.0/srcs/pegdown-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.pegdown/pegdown/1.4.0/docs/pegdown-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.pegdown/pegdown/1.4.0/srcs/pegdown-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.pegdown/pegdown/1.4.0/docs/pegdown-javadoc.jar
+		tried https://repo1.maven.org/maven2/org/pegdown/pegdown/1.4.0/pegdown-1.4.0-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/pegdown/pegdown/1.4.0/pegdown-1.4.0-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/pegdown/pegdown/1.4.0/pegdown-1.4.0-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/pegdown/pegdown/1.4.0/pegdown-1.4.0-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/pegdown/pegdown/1.4.0/pegdown-1.4.0-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/pegdown/pegdown/1.4.0/pegdown-1.4.0-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.pegdown#pegdown;1.4.0!pegdown.jar(src) (216ms)
+	[SUCCESSFUL ] org.pegdown#pegdown;1.4.0!pegdown.jar(src) (216ms)
+		tried https://repo1.maven.org/maven2/org/pegdown/pegdown/1.4.0/pegdown-1.4.0-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/pegdown/pegdown/1.4.0/pegdown-1.4.0-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/pegdown/pegdown/1.4.0/pegdown-1.4.0-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/pegdown/pegdown/1.4.0/pegdown-1.4.0-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/pegdown/pegdown/1.4.0/pegdown-1.4.0-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/pegdown/pegdown/1.4.0/pegdown-1.4.0-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.pegdown#pegdown;1.4.0!pegdown.jar(doc) (230ms)
+	[SUCCESSFUL ] org.pegdown#pegdown;1.4.0!pegdown.jar(doc) (230ms)
+		tried /Users/hc2twv/.ivy2/local/org.parboiled/parboiled-java/1.1.5/docs/parboiled-java-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.parboiled/parboiled-java/1.1.5/srcs/parboiled-java-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.parboiled/parboiled-java/1.1.5/docs/parboiled-java-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.parboiled/parboiled-java/1.1.5/srcs/parboiled-java-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.parboiled/parboiled-java/1.1.5/docs/parboiled-java-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.parboiled/parboiled-java/1.1.5/srcs/parboiled-java-sources.jar
+		tried https://repo1.maven.org/maven2/org/parboiled/parboiled-java/1.1.5/parboiled-java-1.1.5-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/parboiled/parboiled-java/1.1.5/parboiled-java-1.1.5-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/parboiled/parboiled-java/1.1.5/parboiled-java-1.1.5-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/parboiled/parboiled-java/1.1.5/parboiled-java-1.1.5-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/parboiled/parboiled-java/1.1.5/parboiled-java-1.1.5-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/parboiled/parboiled-java/1.1.5/parboiled-java-1.1.5-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.parboiled#parboiled-java;1.1.5!parboiled-java.jar(doc) (218ms)
+	[SUCCESSFUL ] org.parboiled#parboiled-java;1.1.5!parboiled-java.jar(doc) (218ms)
+		tried https://repo1.maven.org/maven2/org/parboiled/parboiled-java/1.1.5/parboiled-java-1.1.5-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/parboiled/parboiled-java/1.1.5/parboiled-java-1.1.5-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/parboiled/parboiled-java/1.1.5/parboiled-java-1.1.5-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/parboiled/parboiled-java/1.1.5/parboiled-java-1.1.5-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/parboiled/parboiled-java/1.1.5/parboiled-java-1.1.5-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/parboiled/parboiled-java/1.1.5/parboiled-java-1.1.5-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.parboiled#parboiled-java;1.1.5!parboiled-java.jar(src) (212ms)
+	[SUCCESSFUL ] org.parboiled#parboiled-java;1.1.5!parboiled-java.jar(src) (212ms)
+		tried /Users/hc2twv/.ivy2/local/org.parboiled/parboiled-core/1.1.5/docs/parboiled-core-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.parboiled/parboiled-core/1.1.5/srcs/parboiled-core-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.parboiled/parboiled-core/1.1.5/docs/parboiled-core-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.parboiled/parboiled-core/1.1.5/srcs/parboiled-core-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.parboiled/parboiled-core/1.1.5/docs/parboiled-core-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.parboiled/parboiled-core/1.1.5/srcs/parboiled-core-sources.jar
+		tried https://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.5/parboiled-core-1.1.5-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.5/parboiled-core-1.1.5-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.5/parboiled-core-1.1.5-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.5/parboiled-core-1.1.5-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.5/parboiled-core-1.1.5-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.5/parboiled-core-1.1.5-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.parboiled#parboiled-core;1.1.5!parboiled-core.jar(doc) (277ms)
+	[SUCCESSFUL ] org.parboiled#parboiled-core;1.1.5!parboiled-core.jar(doc) (277ms)
+		tried https://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.5/parboiled-core-1.1.5-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.5/parboiled-core-1.1.5-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.5/parboiled-core-1.1.5-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.5/parboiled-core-1.1.5-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.5/parboiled-core-1.1.5-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.5/parboiled-core-1.1.5-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.parboiled#parboiled-core;1.1.5!parboiled-core.jar(src) (232ms)
+	[SUCCESSFUL ] org.parboiled#parboiled-core;1.1.5!parboiled-core.jar(src) (232ms)
+		tried /Users/hc2twv/.ivy2/local/org.ow2.asm/asm/4.1/docs/asm-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.ow2.asm/asm/4.1/srcs/asm-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.ow2.asm/asm/4.1/docs/asm-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.ow2.asm/asm/4.1/srcs/asm-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.ow2.asm/asm/4.1/docs/asm-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.ow2.asm/asm/4.1/srcs/asm-sources.jar
+		tried https://repo1.maven.org/maven2/org/ow2/asm/asm/4.1/asm-4.1-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm/4.1/asm-4.1-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/ow2/asm/asm/4.1/asm-4.1-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm/4.1/asm-4.1-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm/4.1/asm-4.1-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/ow2/asm/asm/4.1/asm-4.1-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.ow2.asm#asm;4.1!asm.jar(doc) (457ms)
+	[SUCCESSFUL ] org.ow2.asm#asm;4.1!asm.jar(doc) (457ms)
+		tried https://repo1.maven.org/maven2/org/ow2/asm/asm/4.1/asm-4.1-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm/4.1/asm-4.1-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/ow2/asm/asm/4.1/asm-4.1-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm/4.1/asm-4.1-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm/4.1/asm-4.1-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/ow2/asm/asm/4.1/asm-4.1-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.ow2.asm#asm;4.1!asm.jar(src) (352ms)
+	[SUCCESSFUL ] org.ow2.asm#asm;4.1!asm.jar(src) (352ms)
+		tried /Users/hc2twv/.ivy2/local/org.ow2.asm/asm-tree/4.1/srcs/asm-tree-sources.jar
+		tried /Users/hc2twv/.ivy2/local/org.ow2.asm/asm-tree/4.1/docs/asm-tree-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.ow2.asm/asm-tree/4.1/srcs/asm-tree-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.ow2.asm/asm-tree/4.1/docs/asm-tree-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.ow2.asm/asm-tree/4.1/srcs/asm-tree-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.ow2.asm/asm-tree/4.1/docs/asm-tree-javadoc.jar
+		tried https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/4.1/asm-tree-4.1-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/4.1/asm-tree-4.1-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/4.1/asm-tree-4.1-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/4.1/asm-tree-4.1-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/4.1/asm-tree-4.1-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/4.1/asm-tree-4.1-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.ow2.asm#asm-tree;4.1!asm-tree.jar(src) (366ms)
+	[SUCCESSFUL ] org.ow2.asm#asm-tree;4.1!asm-tree.jar(src) (366ms)
+		tried https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/4.1/asm-tree-4.1-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/4.1/asm-tree-4.1-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/4.1/asm-tree-4.1-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/4.1/asm-tree-4.1-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/4.1/asm-tree-4.1-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/4.1/asm-tree-4.1-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.ow2.asm#asm-tree;4.1!asm-tree.jar(doc) (477ms)
+	[SUCCESSFUL ] org.ow2.asm#asm-tree;4.1!asm-tree.jar(doc) (477ms)
+		tried /Users/hc2twv/.ivy2/local/org.ow2.asm/asm-analysis/4.1/docs/asm-analysis-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.ow2.asm/asm-analysis/4.1/srcs/asm-analysis-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.ow2.asm/asm-analysis/4.1/docs/asm-analysis-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.ow2.asm/asm-analysis/4.1/srcs/asm-analysis-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.ow2.asm/asm-analysis/4.1/docs/asm-analysis-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.ow2.asm/asm-analysis/4.1/srcs/asm-analysis-sources.jar
+		tried https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/4.1/asm-analysis-4.1-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/4.1/asm-analysis-4.1-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/4.1/asm-analysis-4.1-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/4.1/asm-analysis-4.1-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/4.1/asm-analysis-4.1-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/4.1/asm-analysis-4.1-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.ow2.asm#asm-analysis;4.1!asm-analysis.jar(doc) (1440ms)
+	[SUCCESSFUL ] org.ow2.asm#asm-analysis;4.1!asm-analysis.jar(doc) (1440ms)
+		tried https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/4.1/asm-analysis-4.1-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/4.1/asm-analysis-4.1-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/4.1/asm-analysis-4.1-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/4.1/asm-analysis-4.1-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/4.1/asm-analysis-4.1-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/4.1/asm-analysis-4.1-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.ow2.asm#asm-analysis;4.1!asm-analysis.jar(src) (1088ms)
+	[SUCCESSFUL ] org.ow2.asm#asm-analysis;4.1!asm-analysis.jar(src) (1088ms)
+		tried /Users/hc2twv/.ivy2/local/org.ow2.asm/asm-util/4.1/srcs/asm-util-sources.jar
+		tried /Users/hc2twv/.ivy2/local/org.ow2.asm/asm-util/4.1/docs/asm-util-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.ow2.asm/asm-util/4.1/srcs/asm-util-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.ow2.asm/asm-util/4.1/docs/asm-util-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.ow2.asm/asm-util/4.1/srcs/asm-util-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.ow2.asm/asm-util/4.1/docs/asm-util-javadoc.jar
+		tried https://repo1.maven.org/maven2/org/ow2/asm/asm-util/4.1/asm-util-4.1-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-util/4.1/asm-util-4.1-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-util/4.1/asm-util-4.1-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-util/4.1/asm-util-4.1-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-util/4.1/asm-util-4.1-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/ow2/asm/asm-util/4.1/asm-util-4.1-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.ow2.asm#asm-util;4.1!asm-util.jar(src) (1151ms)
+	[SUCCESSFUL ] org.ow2.asm#asm-util;4.1!asm-util.jar(src) (1151ms)
+		tried https://repo1.maven.org/maven2/org/ow2/asm/asm-util/4.1/asm-util-4.1-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-util/4.1/asm-util-4.1-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-util/4.1/asm-util-4.1-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-util/4.1/asm-util-4.1-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-util/4.1/asm-util-4.1-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/ow2/asm/asm-util/4.1/asm-util-4.1-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.ow2.asm#asm-util;4.1!asm-util.jar(doc) (635ms)
+	[SUCCESSFUL ] org.ow2.asm#asm-util;4.1!asm-util.jar(doc) (635ms)
+		tried /Users/hc2twv/.ivy2/local/org.scala-lang/scala-compiler/2.11.8/srcs/scala-compiler-sources.jar
+		tried /Users/hc2twv/.ivy2/local/org.scala-lang/scala-compiler/2.11.8/docs/scala-compiler-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-lang/scala-compiler/2.11.8/srcs/scala-compiler-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-lang/scala-compiler/2.11.8/docs/scala-compiler-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-lang/scala-compiler/2.11.8/srcs/scala-compiler-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-lang/scala-compiler/2.11.8/docs/scala-compiler-javadoc.jar
+		tried https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.8/scala-compiler-2.11.8-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.8/scala-compiler-2.11.8-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.8/scala-compiler-2.11.8-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.8/scala-compiler-2.11.8-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.8/scala-compiler-2.11.8-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.8/scala-compiler-2.11.8-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.11.8!scala-compiler.jar(src) (565ms)
+	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.11.8!scala-compiler.jar(src) (565ms)
+		tried https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.8/scala-compiler-2.11.8-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.8/scala-compiler-2.11.8-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.8/scala-compiler-2.11.8-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.8/scala-compiler-2.11.8-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.8/scala-compiler-2.11.8-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.8/scala-compiler-2.11.8-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.11.8!scala-compiler.jar(doc) (2314ms)
+	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.11.8!scala-compiler.jar(doc) (2314ms)
+	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(doc)
+	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(src)
+	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(doc)
+	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.play/fork-run_2.11/2.5.9/srcs/fork-run_2.11-sources.jar
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.play/fork-run_2.11/2.5.9/docs/fork-run_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.play/fork-run_2.11/2.5.9/srcs/fork-run_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.play/fork-run_2.11/2.5.9/docs/fork-run_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.play/fork-run_2.11/2.5.9/srcs/fork-run_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.play/fork-run_2.11/2.5.9/docs/fork-run_2.11-javadoc.jar
+		tried https://repo1.maven.org/maven2/com/typesafe/play/fork-run_2.11/2.5.9/fork-run_2.11-2.5.9-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/play/fork-run_2.11/2.5.9/fork-run_2.11-2.5.9-sources.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/play/fork-run_2.11/2.5.9/fork-run_2.11-2.5.9-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/fork-run_2.11/2.5.9/fork-run_2.11-2.5.9-sources.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/fork-run_2.11/2.5.9/fork-run_2.11-2.5.9-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/fork-run_2.11/2.5.9/fork-run_2.11-2.5.9-sources.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.play#fork-run_2.11;2.5.9!fork-run_2.11.jar(src) (276ms)
+	[SUCCESSFUL ] com.typesafe.play#fork-run_2.11;2.5.9!fork-run_2.11.jar(src) (276ms)
+		tried https://repo1.maven.org/maven2/com/typesafe/play/fork-run_2.11/2.5.9/fork-run_2.11-2.5.9-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/play/fork-run_2.11/2.5.9/fork-run_2.11-2.5.9-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/play/fork-run_2.11/2.5.9/fork-run_2.11-2.5.9-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/fork-run_2.11/2.5.9/fork-run_2.11-2.5.9-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/fork-run_2.11/2.5.9/fork-run_2.11-2.5.9-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/fork-run_2.11/2.5.9/fork-run_2.11-2.5.9-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.play#fork-run_2.11;2.5.9!fork-run_2.11.jar(doc) (418ms)
+	[SUCCESSFUL ] com.typesafe.play#fork-run_2.11;2.5.9!fork-run_2.11.jar(doc) (418ms)
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.play/fork-run-protocol_2.11/2.5.9/srcs/fork-run-protocol_2.11-sources.jar
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.play/fork-run-protocol_2.11/2.5.9/docs/fork-run-protocol_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.play/fork-run-protocol_2.11/2.5.9/srcs/fork-run-protocol_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.play/fork-run-protocol_2.11/2.5.9/docs/fork-run-protocol_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.play/fork-run-protocol_2.11/2.5.9/srcs/fork-run-protocol_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.play/fork-run-protocol_2.11/2.5.9/docs/fork-run-protocol_2.11-javadoc.jar
+		tried https://repo1.maven.org/maven2/com/typesafe/play/fork-run-protocol_2.11/2.5.9/fork-run-protocol_2.11-2.5.9-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/play/fork-run-protocol_2.11/2.5.9/fork-run-protocol_2.11-2.5.9-sources.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/play/fork-run-protocol_2.11/2.5.9/fork-run-protocol_2.11-2.5.9-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/fork-run-protocol_2.11/2.5.9/fork-run-protocol_2.11-2.5.9-sources.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/fork-run-protocol_2.11/2.5.9/fork-run-protocol_2.11-2.5.9-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/fork-run-protocol_2.11/2.5.9/fork-run-protocol_2.11-2.5.9-sources.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.play#fork-run-protocol_2.11;2.5.9!fork-run-protocol_2.11.jar(src) (269ms)
+	[SUCCESSFUL ] com.typesafe.play#fork-run-protocol_2.11;2.5.9!fork-run-protocol_2.11.jar(src) (269ms)
+		tried https://repo1.maven.org/maven2/com/typesafe/play/fork-run-protocol_2.11/2.5.9/fork-run-protocol_2.11-2.5.9-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/play/fork-run-protocol_2.11/2.5.9/fork-run-protocol_2.11-2.5.9-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/play/fork-run-protocol_2.11/2.5.9/fork-run-protocol_2.11-2.5.9-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/fork-run-protocol_2.11/2.5.9/fork-run-protocol_2.11-2.5.9-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/fork-run-protocol_2.11/2.5.9/fork-run-protocol_2.11-2.5.9-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/fork-run-protocol_2.11/2.5.9/fork-run-protocol_2.11-2.5.9-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.play#fork-run-protocol_2.11;2.5.9!fork-run-protocol_2.11.jar(doc) (380ms)
+	[SUCCESSFUL ] com.typesafe.play#fork-run-protocol_2.11;2.5.9!fork-run-protocol_2.11.jar(doc) (380ms)
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.play/run-support_2.11/2.5.9/srcs/run-support_2.11-sources.jar
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.play/run-support_2.11/2.5.9/docs/run-support_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.play/run-support_2.11/2.5.9/srcs/run-support_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.play/run-support_2.11/2.5.9/docs/run-support_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.play/run-support_2.11/2.5.9/srcs/run-support_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.play/run-support_2.11/2.5.9/docs/run-support_2.11-javadoc.jar
+		tried https://repo1.maven.org/maven2/com/typesafe/play/run-support_2.11/2.5.9/run-support_2.11-2.5.9-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/play/run-support_2.11/2.5.9/run-support_2.11-2.5.9-sources.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/play/run-support_2.11/2.5.9/run-support_2.11-2.5.9-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/run-support_2.11/2.5.9/run-support_2.11-2.5.9-sources.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/run-support_2.11/2.5.9/run-support_2.11-2.5.9-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/run-support_2.11/2.5.9/run-support_2.11-2.5.9-sources.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.play#run-support_2.11;2.5.9!run-support_2.11.jar(src) (281ms)
+	[SUCCESSFUL ] com.typesafe.play#run-support_2.11;2.5.9!run-support_2.11.jar(src) (281ms)
+		tried https://repo1.maven.org/maven2/com/typesafe/play/run-support_2.11/2.5.9/run-support_2.11-2.5.9-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/play/run-support_2.11/2.5.9/run-support_2.11-2.5.9-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/play/run-support_2.11/2.5.9/run-support_2.11-2.5.9-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/run-support_2.11/2.5.9/run-support_2.11-2.5.9-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/run-support_2.11/2.5.9/run-support_2.11-2.5.9-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/run-support_2.11/2.5.9/run-support_2.11-2.5.9-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.play#run-support_2.11;2.5.9!run-support_2.11.jar(doc) (427ms)
+	[SUCCESSFUL ] com.typesafe.play#run-support_2.11;2.5.9!run-support_2.11.jar(doc) (427ms)
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.play/twirl-compiler_2.11/1.1.1/srcs/twirl-compiler_2.11-sources.jar
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.play/twirl-compiler_2.11/1.1.1/docs/twirl-compiler_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.play/twirl-compiler_2.11/1.1.1/srcs/twirl-compiler_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.play/twirl-compiler_2.11/1.1.1/docs/twirl-compiler_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.play/twirl-compiler_2.11/1.1.1/srcs/twirl-compiler_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.play/twirl-compiler_2.11/1.1.1/docs/twirl-compiler_2.11-javadoc.jar
+		tried https://repo1.maven.org/maven2/com/typesafe/play/twirl-compiler_2.11/1.1.1/twirl-compiler_2.11-1.1.1-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/play/twirl-compiler_2.11/1.1.1/twirl-compiler_2.11-1.1.1-sources.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/play/twirl-compiler_2.11/1.1.1/twirl-compiler_2.11-1.1.1-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/twirl-compiler_2.11/1.1.1/twirl-compiler_2.11-1.1.1-sources.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/twirl-compiler_2.11/1.1.1/twirl-compiler_2.11-1.1.1-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/twirl-compiler_2.11/1.1.1/twirl-compiler_2.11-1.1.1-sources.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.play#twirl-compiler_2.11;1.1.1!twirl-compiler_2.11.jar(src) (199ms)
+	[SUCCESSFUL ] com.typesafe.play#twirl-compiler_2.11;1.1.1!twirl-compiler_2.11.jar(src) (199ms)
+		tried https://repo1.maven.org/maven2/com/typesafe/play/twirl-compiler_2.11/1.1.1/twirl-compiler_2.11-1.1.1-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/play/twirl-compiler_2.11/1.1.1/twirl-compiler_2.11-1.1.1-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/play/twirl-compiler_2.11/1.1.1/twirl-compiler_2.11-1.1.1-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/twirl-compiler_2.11/1.1.1/twirl-compiler_2.11-1.1.1-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/twirl-compiler_2.11/1.1.1/twirl-compiler_2.11-1.1.1-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/twirl-compiler_2.11/1.1.1/twirl-compiler_2.11-1.1.1-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.play#twirl-compiler_2.11;1.1.1!twirl-compiler_2.11.jar(doc) (277ms)
+	[SUCCESSFUL ] com.typesafe.play#twirl-compiler_2.11;1.1.1!twirl-compiler_2.11.jar(doc) (277ms)
+		tried /Users/hc2twv/.ivy2/local/org.scala-lang/scala-compiler/2.11.6/docs/scala-compiler-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.scala-lang/scala-compiler/2.11.6/srcs/scala-compiler-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-lang/scala-compiler/2.11.6/docs/scala-compiler-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-lang/scala-compiler/2.11.6/srcs/scala-compiler-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-lang/scala-compiler/2.11.6/docs/scala-compiler-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-lang/scala-compiler/2.11.6/srcs/scala-compiler-sources.jar
+		tried https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.6/scala-compiler-2.11.6-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.6/scala-compiler-2.11.6-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.6/scala-compiler-2.11.6-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.6/scala-compiler-2.11.6-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.6/scala-compiler-2.11.6-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.6/scala-compiler-2.11.6-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.11.6!scala-compiler.jar(doc) (5194ms)
+	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.11.6!scala-compiler.jar(doc) (5194ms)
+		tried https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.6/scala-compiler-2.11.6-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.6/scala-compiler-2.11.6-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.6/scala-compiler-2.11.6-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.6/scala-compiler-2.11.6-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.6/scala-compiler-2.11.6-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.6/scala-compiler-2.11.6-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.11.6!scala-compiler.jar(src) (712ms)
+	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.11.6!scala-compiler.jar(src) (712ms)
+		tried /Users/hc2twv/.ivy2/local/org.scala-lang/scala-reflect/2.11.6/srcs/scala-reflect-sources.jar
+		tried /Users/hc2twv/.ivy2/local/org.scala-lang/scala-reflect/2.11.6/docs/scala-reflect-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-lang/scala-reflect/2.11.6/srcs/scala-reflect-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-lang/scala-reflect/2.11.6/docs/scala-reflect-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-lang/scala-reflect/2.11.6/srcs/scala-reflect-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-lang/scala-reflect/2.11.6/docs/scala-reflect-javadoc.jar
+		tried https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.11.6!scala-reflect.jar(src) (297ms)
+	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.11.6!scala-reflect.jar(src) (297ms)
+		tried https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.11.6!scala-reflect.jar(doc) (921ms)
+	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.11.6!scala-reflect.jar(doc) (921ms)
+		tried /Users/hc2twv/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.3/srcs/scala-xml_2.11-sources.jar
+		tried /Users/hc2twv/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.3/docs/scala-xml_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-lang.modules/scala-xml_2.11/1.0.3/srcs/scala-xml_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-lang.modules/scala-xml_2.11/1.0.3/docs/scala-xml_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-lang.modules/scala-xml_2.11/1.0.3/srcs/scala-xml_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-lang.modules/scala-xml_2.11/1.0.3/docs/scala-xml_2.11-javadoc.jar
+		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(src) (224ms)
+	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(src) (224ms)
+		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(doc) (418ms)
+	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(doc) (418ms)
+		tried /Users/hc2twv/.ivy2/local/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.3/docs/scala-parser-combinators_2.11-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.3/srcs/scala-parser-combinators_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.3/docs/scala-parser-combinators_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.3/srcs/scala-parser-combinators_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.3/docs/scala-parser-combinators_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.3/srcs/scala-parser-combinators_2.11-sources.jar
+		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(doc) (317ms)
+	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(doc) (317ms)
+		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(src) (215ms)
+	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(src) (215ms)
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.play/twirl-parser_2.11/1.1.1/srcs/twirl-parser_2.11-sources.jar
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.play/twirl-parser_2.11/1.1.1/docs/twirl-parser_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.play/twirl-parser_2.11/1.1.1/srcs/twirl-parser_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.play/twirl-parser_2.11/1.1.1/docs/twirl-parser_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.play/twirl-parser_2.11/1.1.1/srcs/twirl-parser_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.play/twirl-parser_2.11/1.1.1/docs/twirl-parser_2.11-javadoc.jar
+		tried https://repo1.maven.org/maven2/com/typesafe/play/twirl-parser_2.11/1.1.1/twirl-parser_2.11-1.1.1-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/play/twirl-parser_2.11/1.1.1/twirl-parser_2.11-1.1.1-sources.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/play/twirl-parser_2.11/1.1.1/twirl-parser_2.11-1.1.1-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/twirl-parser_2.11/1.1.1/twirl-parser_2.11-1.1.1-sources.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/twirl-parser_2.11/1.1.1/twirl-parser_2.11-1.1.1-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/twirl-parser_2.11/1.1.1/twirl-parser_2.11-1.1.1-sources.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.play#twirl-parser_2.11;1.1.1!twirl-parser_2.11.jar(src) (199ms)
+	[SUCCESSFUL ] com.typesafe.play#twirl-parser_2.11;1.1.1!twirl-parser_2.11.jar(src) (199ms)
+		tried https://repo1.maven.org/maven2/com/typesafe/play/twirl-parser_2.11/1.1.1/twirl-parser_2.11-1.1.1-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/play/twirl-parser_2.11/1.1.1/twirl-parser_2.11-1.1.1-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/play/twirl-parser_2.11/1.1.1/twirl-parser_2.11-1.1.1-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/twirl-parser_2.11/1.1.1/twirl-parser_2.11-1.1.1-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/play/twirl-parser_2.11/1.1.1/twirl-parser_2.11-1.1.1-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/play/twirl-parser_2.11/1.1.1/twirl-parser_2.11-1.1.1-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.play#twirl-parser_2.11;1.1.1!twirl-parser_2.11.jar(doc) (270ms)
+	[SUCCESSFUL ] com.typesafe.play#twirl-parser_2.11;1.1.1!twirl-parser_2.11.jar(doc) (270ms)
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.sbtrc/client-2-11/0.3.1/srcs/client-2-11-sources.jar
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.sbtrc/client-2-11/0.3.1/docs/client-2-11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.sbtrc/client-2-11/0.3.1/srcs/client-2-11-sources.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.sbtrc/client-2-11/0.3.1/docs/client-2-11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.sbtrc/client-2-11/0.3.1/srcs/client-2-11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.sbtrc/client-2-11/0.3.1/docs/client-2-11-javadoc.jar
+		tried https://repo1.maven.org/maven2/com/typesafe/sbtrc/client-2-11/0.3.1/client-2-11-0.3.1-sources.jar
+CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/com/typesafe/sbtrc/client-2-11/0.3.1/client-2-11-0.3.1-sources.jar
+		tried https://repo1.maven.org/maven2/com/typesafe/sbtrc/client-2-11/0.3.1/client-2-11-0.3.1-javadoc.jar
+CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/com/typesafe/sbtrc/client-2-11/0.3.1/client-2-11-0.3.1-javadoc.jar
+		tried http://repo.typesafe.com/typesafe/releases/com/typesafe/sbtrc/client-2-11/0.3.1/client-2-11-0.3.1-sources.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/com/typesafe/sbtrc/client-2-11/0.3.1/client-2-11-0.3.1-sources.jar
+		tried http://repo.typesafe.com/typesafe/releases/com/typesafe/sbtrc/client-2-11/0.3.1/client-2-11-0.3.1-javadoc.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/com/typesafe/sbtrc/client-2-11/0.3.1/client-2-11-0.3.1-javadoc.jar
+		tried http://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbtrc/client-2-11/0.3.1/srcs/client-2-11-sources.jar
+Read from stdout: downloading http://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbtrc/client-2-11/0.3.1/srcs/client-2-11-sources.jar ...
+downloading http://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbtrc/client-2-11/0.3.1/srcs/client-2-11-sources.jar ...
+	typesafe-ivy-releasez: downloading http://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbtrc/client-2-11/0.3.1/srcs/client-2-11-sources.jar
+	typesafe-ivy-releasez: downloading http://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbtrc/client-2-11/0.3.1/srcs/client-2-11-sources.jar.sha1
+sha1 OK for http://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbtrc/client-2-11/0.3.1/srcs/client-2-11-sources.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.sbtrc#client-2-11;0.3.1!client-2-11.jar(src) (2762ms)
+	[SUCCESSFUL ] com.typesafe.sbtrc#client-2-11;0.3.1!client-2-11.jar(src) (2762ms)
+		tried http://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbtrc/client-2-11/0.3.1/docs/client-2-11-javadoc.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbtrc/client-2-11/0.3.1/docs/client-2-11-javadoc.jar
+Read from stdout: 	[FAILED     ] com.typesafe.sbtrc#client-2-11;0.3.1!client-2-11.jar(doc):  (0ms)
+	[FAILED     ] com.typesafe.sbtrc#client-2-11;0.3.1!client-2-11.jar(doc):  (0ms)
+Read from stdout: ==== local: tried
+==== local: tried
+Read from stdout: /Users/hc2twv/.ivy2/local/com.typesafe.sbtrc/client-2-11/0.3.1/docs/client-2-11-javadoc.jar
+  /Users/hc2twv/.ivy2/local/com.typesafe.sbtrc/client-2-11/0.3.1/docs/client-2-11-javadoc.jar
+Read from stdout: ==== activator-launcher-local: tried
+==== activator-launcher-local: tried
+Read from stdout: /Users/hc2twv/.activator/repository/com.typesafe.sbtrc/client-2-11/0.3.1/docs/client-2-11-javadoc.jar
+  /Users/hc2twv/.activator/repository/com.typesafe.sbtrc/client-2-11/0.3.1/docs/client-2-11-javadoc.jar
+Read from stdout: ==== activator-local: tried
+==== activator-local: tried
+Read from stdout: /Users/hc2twv/Documents/activator/repository/com.typesafe.sbtrc/client-2-11/0.3.1/docs/client-2-11-javadoc.jar
+  /Users/hc2twv/Documents/activator/repository/com.typesafe.sbtrc/client-2-11/0.3.1/docs/client-2-11-javadoc.jar
+Read from stdout: ==== public: tried
+==== public: tried
+Read from stdout: https://repo1.maven.org/maven2/com/typesafe/sbtrc/client-2-11/0.3.1/client-2-11-0.3.1-javadoc.jar
+  https://repo1.maven.org/maven2/com/typesafe/sbtrc/client-2-11/0.3.1/client-2-11-0.3.1-javadoc.jar
+Read from stdout: ==== typesafe-releases: tried
+==== typesafe-releases: tried
+Read from stdout: http://repo.typesafe.com/typesafe/releases/com/typesafe/sbtrc/client-2-11/0.3.1/client-2-11-0.3.1-javadoc.jar
+  http://repo.typesafe.com/typesafe/releases/com/typesafe/sbtrc/client-2-11/0.3.1/client-2-11-0.3.1-javadoc.jar
+Read from stdout: ==== typesafe-ivy-releasez: tried
+==== typesafe-ivy-releasez: tried
+Read from stdout: http://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbtrc/client-2-11/0.3.1/docs/client-2-11-javadoc.jar
+  http://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbtrc/client-2-11/0.3.1/docs/client-2-11-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.scala-sbt/serialization_2.11/0.1.0/srcs/serialization_2.11-sources.jar
+		tried /Users/hc2twv/.ivy2/local/org.scala-sbt/serialization_2.11/0.1.0/docs/serialization_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-sbt/serialization_2.11/0.1.0/srcs/serialization_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-sbt/serialization_2.11/0.1.0/docs/serialization_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-sbt/serialization_2.11/0.1.0/srcs/serialization_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-sbt/serialization_2.11/0.1.0/docs/serialization_2.11-javadoc.jar
+		tried https://repo1.maven.org/maven2/org/scala-sbt/serialization_2.11/0.1.0/serialization_2.11-0.1.0-sources.jar
+CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/scala-sbt/serialization_2.11/0.1.0/serialization_2.11-0.1.0-sources.jar
+		tried https://repo1.maven.org/maven2/org/scala-sbt/serialization_2.11/0.1.0/serialization_2.11-0.1.0-javadoc.jar
+CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/scala-sbt/serialization_2.11/0.1.0/serialization_2.11-0.1.0-javadoc.jar
+		tried http://repo.typesafe.com/typesafe/releases/org/scala-sbt/serialization_2.11/0.1.0/serialization_2.11-0.1.0-sources.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/org/scala-sbt/serialization_2.11/0.1.0/serialization_2.11-0.1.0-sources.jar
+		tried http://repo.typesafe.com/typesafe/releases/org/scala-sbt/serialization_2.11/0.1.0/serialization_2.11-0.1.0-javadoc.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/org/scala-sbt/serialization_2.11/0.1.0/serialization_2.11-0.1.0-javadoc.jar
+		tried http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/serialization_2.11/0.1.0/srcs/serialization_2.11-sources.jar
+Read from stdout: downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/serialization_2.11/0.1.0/srcs/serialization_2.11-sources.jar ...
+downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/serialization_2.11/0.1.0/srcs/serialization_2.11-sources.jar ...
+	typesafe-ivy-releasez: downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/serialization_2.11/0.1.0/srcs/serialization_2.11-sources.jar
+	typesafe-ivy-releasez: downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/serialization_2.11/0.1.0/srcs/serialization_2.11-sources.jar.sha1
+sha1 OK for http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/serialization_2.11/0.1.0/srcs/serialization_2.11-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.scala-sbt#serialization_2.11;0.1.0!serialization_2.11.jar(src) (1518ms)
+	[SUCCESSFUL ] org.scala-sbt#serialization_2.11;0.1.0!serialization_2.11.jar(src) (1518ms)
+		tried http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/serialization_2.11/0.1.0/docs/serialization_2.11-javadoc.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/serialization_2.11/0.1.0/docs/serialization_2.11-javadoc.jar
+Read from stdout: 	[FAILED     ] org.scala-sbt#serialization_2.11;0.1.0!serialization_2.11.jar(doc):  (0ms)
+	[FAILED     ] org.scala-sbt#serialization_2.11;0.1.0!serialization_2.11.jar(doc):  (0ms)
+Read from stdout: ==== local: tried
+==== local: tried
+Read from stdout: /Users/hc2twv/.ivy2/local/org.scala-sbt/serialization_2.11/0.1.0/docs/serialization_2.11-javadoc.jar
+  /Users/hc2twv/.ivy2/local/org.scala-sbt/serialization_2.11/0.1.0/docs/serialization_2.11-javadoc.jar
+Read from stdout: ==== activator-launcher-local: tried
+==== activator-launcher-local: tried
+Read from stdout: /Users/hc2twv/.activator/repository/org.scala-sbt/serialization_2.11/0.1.0/docs/serialization_2.11-javadoc.jar
+  /Users/hc2twv/.activator/repository/org.scala-sbt/serialization_2.11/0.1.0/docs/serialization_2.11-javadoc.jar
+Read from stdout: ==== activator-local: tried
+==== activator-local: tried
+Read from stdout: /Users/hc2twv/Documents/activator/repository/org.scala-sbt/serialization_2.11/0.1.0/docs/serialization_2.11-javadoc.jar
+  /Users/hc2twv/Documents/activator/repository/org.scala-sbt/serialization_2.11/0.1.0/docs/serialization_2.11-javadoc.jar
+Read from stdout: ==== public: tried
+==== public: tried
+Read from stdout: https://repo1.maven.org/maven2/org/scala-sbt/serialization_2.11/0.1.0/serialization_2.11-0.1.0-javadoc.jar
+  https://repo1.maven.org/maven2/org/scala-sbt/serialization_2.11/0.1.0/serialization_2.11-0.1.0-javadoc.jar
+Read from stdout: ==== typesafe-releases: tried
+==== typesafe-releases: tried
+Read from stdout: http://repo.typesafe.com/typesafe/releases/org/scala-sbt/serialization_2.11/0.1.0/serialization_2.11-0.1.0-javadoc.jar
+  http://repo.typesafe.com/typesafe/releases/org/scala-sbt/serialization_2.11/0.1.0/serialization_2.11-0.1.0-javadoc.jar
+Read from stdout: ==== typesafe-ivy-releasez: tried
+==== typesafe-ivy-releasez: tried
+Read from stdout: http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/serialization_2.11/0.1.0/docs/serialization_2.11-javadoc.jar
+  http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/serialization_2.11/0.1.0/docs/serialization_2.11-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.scala-lang.modules/scala-pickling_2.11/0.10.0/docs/scala-pickling_2.11-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.scala-lang.modules/scala-pickling_2.11/0.10.0/srcs/scala-pickling_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-lang.modules/scala-pickling_2.11/0.10.0/docs/scala-pickling_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-lang.modules/scala-pickling_2.11/0.10.0/srcs/scala-pickling_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-lang.modules/scala-pickling_2.11/0.10.0/docs/scala-pickling_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-lang.modules/scala-pickling_2.11/0.10.0/srcs/scala-pickling_2.11-sources.jar
+		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-pickling_2.11/0.10.0/scala-pickling_2.11-0.10.0-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-pickling_2.11/0.10.0/scala-pickling_2.11-0.10.0-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-pickling_2.11/0.10.0/scala-pickling_2.11-0.10.0-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-pickling_2.11/0.10.0/scala-pickling_2.11-0.10.0-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-pickling_2.11/0.10.0/scala-pickling_2.11-0.10.0-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-pickling_2.11/0.10.0/scala-pickling_2.11-0.10.0-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.scala-lang.modules#scala-pickling_2.11;0.10.0!scala-pickling_2.11.jar(doc) (396ms)
+	[SUCCESSFUL ] org.scala-lang.modules#scala-pickling_2.11;0.10.0!scala-pickling_2.11.jar(doc) (396ms)
+		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-pickling_2.11/0.10.0/scala-pickling_2.11-0.10.0-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-pickling_2.11/0.10.0/scala-pickling_2.11-0.10.0-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-pickling_2.11/0.10.0/scala-pickling_2.11-0.10.0-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-pickling_2.11/0.10.0/scala-pickling_2.11-0.10.0-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-pickling_2.11/0.10.0/scala-pickling_2.11-0.10.0-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-pickling_2.11/0.10.0/scala-pickling_2.11-0.10.0-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.scala-lang.modules#scala-pickling_2.11;0.10.0!scala-pickling_2.11.jar(src) (211ms)
+	[SUCCESSFUL ] org.scala-lang.modules#scala-pickling_2.11;0.10.0!scala-pickling_2.11.jar(src) (211ms)
+		tried /Users/hc2twv/.ivy2/local/org.json4s/json4s-core_2.11/3.2.10/srcs/json4s-core_2.11-sources.jar
+		tried /Users/hc2twv/.ivy2/local/org.json4s/json4s-core_2.11/3.2.10/docs/json4s-core_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.json4s/json4s-core_2.11/3.2.10/srcs/json4s-core_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.json4s/json4s-core_2.11/3.2.10/docs/json4s-core_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.json4s/json4s-core_2.11/3.2.10/srcs/json4s-core_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.json4s/json4s-core_2.11/3.2.10/docs/json4s-core_2.11-javadoc.jar
+		tried https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.10/json4s-core_2.11-3.2.10-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.10/json4s-core_2.11-3.2.10-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.10/json4s-core_2.11-3.2.10-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.10/json4s-core_2.11-3.2.10-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.10/json4s-core_2.11-3.2.10-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.10/json4s-core_2.11-3.2.10-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.json4s#json4s-core_2.11;3.2.10!json4s-core_2.11.jar(src) (212ms)
+	[SUCCESSFUL ] org.json4s#json4s-core_2.11;3.2.10!json4s-core_2.11.jar(src) (212ms)
+		tried https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.10/json4s-core_2.11-3.2.10-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.10/json4s-core_2.11-3.2.10-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.10/json4s-core_2.11-3.2.10-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.10/json4s-core_2.11-3.2.10-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.10/json4s-core_2.11-3.2.10-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/3.2.10/json4s-core_2.11-3.2.10-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.json4s#json4s-core_2.11;3.2.10!json4s-core_2.11.jar(doc) (328ms)
+	[SUCCESSFUL ] org.json4s#json4s-core_2.11;3.2.10!json4s-core_2.11.jar(doc) (328ms)
+		tried /Users/hc2twv/.ivy2/local/org.json4s/json4s-ast_2.11/3.2.10/srcs/json4s-ast_2.11-sources.jar
+		tried /Users/hc2twv/.ivy2/local/org.json4s/json4s-ast_2.11/3.2.10/docs/json4s-ast_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.json4s/json4s-ast_2.11/3.2.10/srcs/json4s-ast_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.json4s/json4s-ast_2.11/3.2.10/docs/json4s-ast_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.json4s/json4s-ast_2.11/3.2.10/srcs/json4s-ast_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.json4s/json4s-ast_2.11/3.2.10/docs/json4s-ast_2.11-javadoc.jar
+		tried https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.10/json4s-ast_2.11-3.2.10-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.10/json4s-ast_2.11-3.2.10-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.10/json4s-ast_2.11-3.2.10-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.10/json4s-ast_2.11-3.2.10-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.10/json4s-ast_2.11-3.2.10-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.10/json4s-ast_2.11-3.2.10-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.json4s#json4s-ast_2.11;3.2.10!json4s-ast_2.11.jar(src) (205ms)
+	[SUCCESSFUL ] org.json4s#json4s-ast_2.11;3.2.10!json4s-ast_2.11.jar(src) (205ms)
+		tried https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.10/json4s-ast_2.11-3.2.10-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.10/json4s-ast_2.11-3.2.10-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.10/json4s-ast_2.11-3.2.10-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.10/json4s-ast_2.11-3.2.10-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.10/json4s-ast_2.11-3.2.10-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.11/3.2.10/json4s-ast_2.11-3.2.10-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.json4s#json4s-ast_2.11;3.2.10!json4s-ast_2.11.jar(doc) (279ms)
+	[SUCCESSFUL ] org.json4s#json4s-ast_2.11;3.2.10!json4s-ast_2.11.jar(doc) (279ms)
+	[NOT REQUIRED] com.thoughtworks.paranamer#paranamer;2.6!paranamer.jar(src)
+		tried /Users/hc2twv/.ivy2/local/com.thoughtworks.paranamer/paranamer/2.6/docs/paranamer-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/com.thoughtworks.paranamer/paranamer/2.6/docs/paranamer-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.thoughtworks.paranamer/paranamer/2.6/docs/paranamer-javadoc.jar
+		tried https://repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.6/paranamer-2.6-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.6/paranamer-2.6-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.6/paranamer-2.6-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.6/paranamer-2.6-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.6/paranamer-2.6-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.6/paranamer-2.6-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] com.thoughtworks.paranamer#paranamer;2.6!paranamer.jar(doc) (230ms)
+	[SUCCESSFUL ] com.thoughtworks.paranamer#paranamer;2.6!paranamer.jar(doc) (230ms)
+		tried /Users/hc2twv/.ivy2/local/org.spire-math/jawn-parser_2.11/0.6.0/docs/jawn-parser_2.11-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.spire-math/jawn-parser_2.11/0.6.0/srcs/jawn-parser_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.spire-math/jawn-parser_2.11/0.6.0/docs/jawn-parser_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.spire-math/jawn-parser_2.11/0.6.0/srcs/jawn-parser_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.spire-math/jawn-parser_2.11/0.6.0/docs/jawn-parser_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.spire-math/jawn-parser_2.11/0.6.0/srcs/jawn-parser_2.11-sources.jar
+		tried https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.11/0.6.0/jawn-parser_2.11-0.6.0-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.11/0.6.0/jawn-parser_2.11-0.6.0-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.11/0.6.0/jawn-parser_2.11-0.6.0-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.11/0.6.0/jawn-parser_2.11-0.6.0-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.11/0.6.0/jawn-parser_2.11-0.6.0-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.11/0.6.0/jawn-parser_2.11-0.6.0-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.spire-math#jawn-parser_2.11;0.6.0!jawn-parser_2.11.jar(doc) (274ms)
+	[SUCCESSFUL ] org.spire-math#jawn-parser_2.11;0.6.0!jawn-parser_2.11.jar(doc) (274ms)
+		tried https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.11/0.6.0/jawn-parser_2.11-0.6.0-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.11/0.6.0/jawn-parser_2.11-0.6.0-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.11/0.6.0/jawn-parser_2.11-0.6.0-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.11/0.6.0/jawn-parser_2.11-0.6.0-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.11/0.6.0/jawn-parser_2.11-0.6.0-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.11/0.6.0/jawn-parser_2.11-0.6.0-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.spire-math#jawn-parser_2.11;0.6.0!jawn-parser_2.11.jar(src) (201ms)
+	[SUCCESSFUL ] org.spire-math#jawn-parser_2.11;0.6.0!jawn-parser_2.11.jar(src) (201ms)
+		tried /Users/hc2twv/.ivy2/local/org.spire-math/json4s-support_2.11/0.6.0/srcs/json4s-support_2.11-sources.jar
+		tried /Users/hc2twv/.ivy2/local/org.spire-math/json4s-support_2.11/0.6.0/docs/json4s-support_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.spire-math/json4s-support_2.11/0.6.0/srcs/json4s-support_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.spire-math/json4s-support_2.11/0.6.0/docs/json4s-support_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.spire-math/json4s-support_2.11/0.6.0/srcs/json4s-support_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.spire-math/json4s-support_2.11/0.6.0/docs/json4s-support_2.11-javadoc.jar
+		tried https://repo1.maven.org/maven2/org/spire-math/json4s-support_2.11/0.6.0/json4s-support_2.11-0.6.0-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/spire-math/json4s-support_2.11/0.6.0/json4s-support_2.11-0.6.0-sources.jar ...
+downloading https://repo1.maven.org/maven2/org/spire-math/json4s-support_2.11/0.6.0/json4s-support_2.11-0.6.0-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/spire-math/json4s-support_2.11/0.6.0/json4s-support_2.11-0.6.0-sources.jar
+	public: downloading https://repo1.maven.org/maven2/org/spire-math/json4s-support_2.11/0.6.0/json4s-support_2.11-0.6.0-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/spire-math/json4s-support_2.11/0.6.0/json4s-support_2.11-0.6.0-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.spire-math#json4s-support_2.11;0.6.0!json4s-support_2.11.jar(src) (202ms)
+	[SUCCESSFUL ] org.spire-math#json4s-support_2.11;0.6.0!json4s-support_2.11.jar(src) (202ms)
+		tried https://repo1.maven.org/maven2/org/spire-math/json4s-support_2.11/0.6.0/json4s-support_2.11-0.6.0-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/org/spire-math/json4s-support_2.11/0.6.0/json4s-support_2.11-0.6.0-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/org/spire-math/json4s-support_2.11/0.6.0/json4s-support_2.11-0.6.0-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/org/spire-math/json4s-support_2.11/0.6.0/json4s-support_2.11-0.6.0-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/org/spire-math/json4s-support_2.11/0.6.0/json4s-support_2.11-0.6.0-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/org/spire-math/json4s-support_2.11/0.6.0/json4s-support_2.11-0.6.0-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] org.spire-math#json4s-support_2.11;0.6.0!json4s-support_2.11.jar(doc) (261ms)
+	[SUCCESSFUL ] org.spire-math#json4s-support_2.11;0.6.0!json4s-support_2.11.jar(doc) (261ms)
+		tried /Users/hc2twv/.ivy2/local/org.scala-sbt/launcher-interface/0.13.8-M3/docs/launcher-interface-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.scala-sbt/launcher-interface/0.13.8-M3/srcs/launcher-interface-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-sbt/launcher-interface/0.13.8-M3/docs/launcher-interface-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-sbt/launcher-interface/0.13.8-M3/srcs/launcher-interface-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-sbt/launcher-interface/0.13.8-M3/docs/launcher-interface-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-sbt/launcher-interface/0.13.8-M3/srcs/launcher-interface-sources.jar
+		tried https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/0.13.8-M3/launcher-interface-0.13.8-M3-javadoc.jar
+CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/0.13.8-M3/launcher-interface-0.13.8-M3-javadoc.jar
+		tried https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/0.13.8-M3/launcher-interface-0.13.8-M3-sources.jar
+CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/0.13.8-M3/launcher-interface-0.13.8-M3-sources.jar
+		tried http://repo.typesafe.com/typesafe/releases/org/scala-sbt/launcher-interface/0.13.8-M3/launcher-interface-0.13.8-M3-javadoc.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/org/scala-sbt/launcher-interface/0.13.8-M3/launcher-interface-0.13.8-M3-javadoc.jar
+		tried http://repo.typesafe.com/typesafe/releases/org/scala-sbt/launcher-interface/0.13.8-M3/launcher-interface-0.13.8-M3-sources.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/org/scala-sbt/launcher-interface/0.13.8-M3/launcher-interface-0.13.8-M3-sources.jar
+		tried http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/launcher-interface/0.13.8-M3/docs/launcher-interface-javadoc.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/launcher-interface/0.13.8-M3/docs/launcher-interface-javadoc.jar
+		tried http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/launcher-interface/0.13.8-M3/srcs/launcher-interface-sources.jar
+Read from stdout: downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/launcher-interface/0.13.8-M3/srcs/launcher-interface-sources.jar ...
+downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/launcher-interface/0.13.8-M3/srcs/launcher-interface-sources.jar ...
+	typesafe-ivy-releasez: downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/launcher-interface/0.13.8-M3/srcs/launcher-interface-sources.jar
+	typesafe-ivy-releasez: downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/launcher-interface/0.13.8-M3/srcs/launcher-interface-sources.jar.sha1
+sha1 OK for http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/launcher-interface/0.13.8-M3/srcs/launcher-interface-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.scala-sbt#launcher-interface;0.13.8-M3!launcher-interface.jar(src) (2430ms)
+	[SUCCESSFUL ] org.scala-sbt#launcher-interface;0.13.8-M3!launcher-interface.jar(src) (2430ms)
+Read from stdout: 	[FAILED     ] org.scala-sbt#launcher-interface;0.13.8-M3!launcher-interface.jar(doc):  (0ms)
+	[FAILED     ] org.scala-sbt#launcher-interface;0.13.8-M3!launcher-interface.jar(doc):  (0ms)
+Read from stdout: ==== local: tried
+==== local: tried
+Read from stdout: /Users/hc2twv/.ivy2/local/org.scala-sbt/launcher-interface/0.13.8-M3/docs/launcher-interface-javadoc.jar
+  /Users/hc2twv/.ivy2/local/org.scala-sbt/launcher-interface/0.13.8-M3/docs/launcher-interface-javadoc.jar
+Read from stdout: ==== activator-launcher-local: tried
+==== activator-launcher-local: tried
+Read from stdout: /Users/hc2twv/.activator/repository/org.scala-sbt/launcher-interface/0.13.8-M3/docs/launcher-interface-javadoc.jar
+  /Users/hc2twv/.activator/repository/org.scala-sbt/launcher-interface/0.13.8-M3/docs/launcher-interface-javadoc.jar
+Read from stdout: ==== activator-local: tried
+==== activator-local: tried
+Read from stdout: /Users/hc2twv/Documents/activator/repository/org.scala-sbt/launcher-interface/0.13.8-M3/docs/launcher-interface-javadoc.jar
+  /Users/hc2twv/Documents/activator/repository/org.scala-sbt/launcher-interface/0.13.8-M3/docs/launcher-interface-javadoc.jar
+Read from stdout: ==== public: tried
+==== public: tried
+Read from stdout: https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/0.13.8-M3/launcher-interface-0.13.8-M3-javadoc.jar
+  https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/0.13.8-M3/launcher-interface-0.13.8-M3-javadoc.jar
+Read from stdout: ==== typesafe-releases: tried
+==== typesafe-releases: tried
+Read from stdout: http://repo.typesafe.com/typesafe/releases/org/scala-sbt/launcher-interface/0.13.8-M3/launcher-interface-0.13.8-M3-javadoc.jar
+  http://repo.typesafe.com/typesafe/releases/org/scala-sbt/launcher-interface/0.13.8-M3/launcher-interface-0.13.8-M3-javadoc.jar
+Read from stdout: ==== typesafe-ivy-releasez: tried
+==== typesafe-ivy-releasez: tried
+Read from stdout: http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/launcher-interface/0.13.8-M3/docs/launcher-interface-javadoc.jar
+  http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/launcher-interface/0.13.8-M3/docs/launcher-interface-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.scala-sbt/interface/0.13.8-M3/docs/interface-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.scala-sbt/interface/0.13.8-M3/srcs/interface-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-sbt/interface/0.13.8-M3/docs/interface-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-sbt/interface/0.13.8-M3/srcs/interface-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-sbt/interface/0.13.8-M3/docs/interface-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-sbt/interface/0.13.8-M3/srcs/interface-sources.jar
+		tried https://repo1.maven.org/maven2/org/scala-sbt/interface/0.13.8-M3/interface-0.13.8-M3-javadoc.jar
+CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/scala-sbt/interface/0.13.8-M3/interface-0.13.8-M3-javadoc.jar
+		tried https://repo1.maven.org/maven2/org/scala-sbt/interface/0.13.8-M3/interface-0.13.8-M3-sources.jar
+CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/scala-sbt/interface/0.13.8-M3/interface-0.13.8-M3-sources.jar
+		tried http://repo.typesafe.com/typesafe/releases/org/scala-sbt/interface/0.13.8-M3/interface-0.13.8-M3-javadoc.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/org/scala-sbt/interface/0.13.8-M3/interface-0.13.8-M3-javadoc.jar
+		tried http://repo.typesafe.com/typesafe/releases/org/scala-sbt/interface/0.13.8-M3/interface-0.13.8-M3-sources.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/org/scala-sbt/interface/0.13.8-M3/interface-0.13.8-M3-sources.jar
+		tried http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/interface/0.13.8-M3/docs/interface-javadoc.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/interface/0.13.8-M3/docs/interface-javadoc.jar
+		tried http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/interface/0.13.8-M3/srcs/interface-sources.jar
+Read from stdout: downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/interface/0.13.8-M3/srcs/interface-sources.jar ...
+downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/interface/0.13.8-M3/srcs/interface-sources.jar ...
+	typesafe-ivy-releasez: downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/interface/0.13.8-M3/srcs/interface-sources.jar
+	typesafe-ivy-releasez: downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/interface/0.13.8-M3/srcs/interface-sources.jar.sha1
+sha1 OK for http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/interface/0.13.8-M3/srcs/interface-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.scala-sbt#interface;0.13.8-M3!interface.jar(src) (1632ms)
+	[SUCCESSFUL ] org.scala-sbt#interface;0.13.8-M3!interface.jar(src) (1632ms)
+Read from stdout: 	[FAILED     ] org.scala-sbt#interface;0.13.8-M3!interface.jar(doc):  (0ms)
+	[FAILED     ] org.scala-sbt#interface;0.13.8-M3!interface.jar(doc):  (0ms)
+Read from stdout: ==== local: tried
+==== local: tried
+Read from stdout: /Users/hc2twv/.ivy2/local/org.scala-sbt/interface/0.13.8-M3/docs/interface-javadoc.jar
+  /Users/hc2twv/.ivy2/local/org.scala-sbt/interface/0.13.8-M3/docs/interface-javadoc.jar
+Read from stdout: ==== activator-launcher-local: tried
+==== activator-launcher-local: tried
+Read from stdout: /Users/hc2twv/.activator/repository/org.scala-sbt/interface/0.13.8-M3/docs/interface-javadoc.jar
+  /Users/hc2twv/.activator/repository/org.scala-sbt/interface/0.13.8-M3/docs/interface-javadoc.jar
+Read from stdout: ==== activator-local: tried
+==== activator-local: tried
+Read from stdout: /Users/hc2twv/Documents/activator/repository/org.scala-sbt/interface/0.13.8-M3/docs/interface-javadoc.jar
+  /Users/hc2twv/Documents/activator/repository/org.scala-sbt/interface/0.13.8-M3/docs/interface-javadoc.jar
+Read from stdout: ==== public: tried
+==== public: tried
+Read from stdout: https://repo1.maven.org/maven2/org/scala-sbt/interface/0.13.8-M3/interface-0.13.8-M3-javadoc.jar
+  https://repo1.maven.org/maven2/org/scala-sbt/interface/0.13.8-M3/interface-0.13.8-M3-javadoc.jar
+Read from stdout: ==== typesafe-releases: tried
+==== typesafe-releases: tried
+Read from stdout: http://repo.typesafe.com/typesafe/releases/org/scala-sbt/interface/0.13.8-M3/interface-0.13.8-M3-javadoc.jar
+  http://repo.typesafe.com/typesafe/releases/org/scala-sbt/interface/0.13.8-M3/interface-0.13.8-M3-javadoc.jar
+Read from stdout: ==== typesafe-ivy-releasez: tried
+==== typesafe-ivy-releasez: tried
+Read from stdout: http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/interface/0.13.8-M3/docs/interface-javadoc.jar
+  http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/interface/0.13.8-M3/docs/interface-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.scala-sbt/io_2.11/0.13.8-M3/docs/io_2.11-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.scala-sbt/io_2.11/0.13.8-M3/srcs/io_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-sbt/io_2.11/0.13.8-M3/docs/io_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-sbt/io_2.11/0.13.8-M3/srcs/io_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-sbt/io_2.11/0.13.8-M3/docs/io_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-sbt/io_2.11/0.13.8-M3/srcs/io_2.11-sources.jar
+		tried https://repo1.maven.org/maven2/org/scala-sbt/io_2.11/0.13.8-M3/io_2.11-0.13.8-M3-javadoc.jar
+CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/scala-sbt/io_2.11/0.13.8-M3/io_2.11-0.13.8-M3-javadoc.jar
+		tried https://repo1.maven.org/maven2/org/scala-sbt/io_2.11/0.13.8-M3/io_2.11-0.13.8-M3-sources.jar
+CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/scala-sbt/io_2.11/0.13.8-M3/io_2.11-0.13.8-M3-sources.jar
+		tried http://repo.typesafe.com/typesafe/releases/org/scala-sbt/io_2.11/0.13.8-M3/io_2.11-0.13.8-M3-javadoc.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/org/scala-sbt/io_2.11/0.13.8-M3/io_2.11-0.13.8-M3-javadoc.jar
+		tried http://repo.typesafe.com/typesafe/releases/org/scala-sbt/io_2.11/0.13.8-M3/io_2.11-0.13.8-M3-sources.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/org/scala-sbt/io_2.11/0.13.8-M3/io_2.11-0.13.8-M3-sources.jar
+		tried http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/io_2.11/0.13.8-M3/docs/io_2.11-javadoc.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/io_2.11/0.13.8-M3/docs/io_2.11-javadoc.jar
+		tried http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/io_2.11/0.13.8-M3/srcs/io_2.11-sources.jar
+Read from stdout: downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/io_2.11/0.13.8-M3/srcs/io_2.11-sources.jar ...
+downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/io_2.11/0.13.8-M3/srcs/io_2.11-sources.jar ...
+	typesafe-ivy-releasez: downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/io_2.11/0.13.8-M3/srcs/io_2.11-sources.jar
+	typesafe-ivy-releasez: downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/io_2.11/0.13.8-M3/srcs/io_2.11-sources.jar.sha1
+sha1 OK for http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/io_2.11/0.13.8-M3/srcs/io_2.11-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.scala-sbt#io_2.11;0.13.8-M3!io_2.11.jar(src) (1504ms)
+	[SUCCESSFUL ] org.scala-sbt#io_2.11;0.13.8-M3!io_2.11.jar(src) (1504ms)
+Read from stdout: 	[FAILED     ] org.scala-sbt#io_2.11;0.13.8-M3!io_2.11.jar(doc):  (0ms)
+	[FAILED     ] org.scala-sbt#io_2.11;0.13.8-M3!io_2.11.jar(doc):  (0ms)
+Read from stdout: ==== local: tried
+==== local: tried
+Read from stdout: /Users/hc2twv/.ivy2/local/org.scala-sbt/io_2.11/0.13.8-M3/docs/io_2.11-javadoc.jar
+  /Users/hc2twv/.ivy2/local/org.scala-sbt/io_2.11/0.13.8-M3/docs/io_2.11-javadoc.jar
+Read from stdout: ==== activator-launcher-local: tried
+==== activator-launcher-local: tried
+Read from stdout: /Users/hc2twv/.activator/repository/org.scala-sbt/io_2.11/0.13.8-M3/docs/io_2.11-javadoc.jar
+  /Users/hc2twv/.activator/repository/org.scala-sbt/io_2.11/0.13.8-M3/docs/io_2.11-javadoc.jar
+Read from stdout: ==== activator-local: tried
+==== activator-local: tried
+Read from stdout: /Users/hc2twv/Documents/activator/repository/org.scala-sbt/io_2.11/0.13.8-M3/docs/io_2.11-javadoc.jar
+  /Users/hc2twv/Documents/activator/repository/org.scala-sbt/io_2.11/0.13.8-M3/docs/io_2.11-javadoc.jar
+Read from stdout: ==== public: tried
+==== public: tried
+Read from stdout: https://repo1.maven.org/maven2/org/scala-sbt/io_2.11/0.13.8-M3/io_2.11-0.13.8-M3-javadoc.jar
+  https://repo1.maven.org/maven2/org/scala-sbt/io_2.11/0.13.8-M3/io_2.11-0.13.8-M3-javadoc.jar
+Read from stdout: ==== typesafe-releases: tried
+==== typesafe-releases: tried
+Read from stdout: http://repo.typesafe.com/typesafe/releases/org/scala-sbt/io_2.11/0.13.8-M3/io_2.11-0.13.8-M3-javadoc.jar
+  http://repo.typesafe.com/typesafe/releases/org/scala-sbt/io_2.11/0.13.8-M3/io_2.11-0.13.8-M3-javadoc.jar
+Read from stdout: ==== typesafe-ivy-releasez: tried
+==== typesafe-ivy-releasez: tried
+Read from stdout: http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/io_2.11/0.13.8-M3/docs/io_2.11-javadoc.jar
+  http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/io_2.11/0.13.8-M3/docs/io_2.11-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.scala-sbt/control_2.11/0.13.8-M3/docs/control_2.11-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.scala-sbt/control_2.11/0.13.8-M3/srcs/control_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-sbt/control_2.11/0.13.8-M3/docs/control_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-sbt/control_2.11/0.13.8-M3/srcs/control_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-sbt/control_2.11/0.13.8-M3/docs/control_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-sbt/control_2.11/0.13.8-M3/srcs/control_2.11-sources.jar
+		tried https://repo1.maven.org/maven2/org/scala-sbt/control_2.11/0.13.8-M3/control_2.11-0.13.8-M3-javadoc.jar
+CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/scala-sbt/control_2.11/0.13.8-M3/control_2.11-0.13.8-M3-javadoc.jar
+		tried https://repo1.maven.org/maven2/org/scala-sbt/control_2.11/0.13.8-M3/control_2.11-0.13.8-M3-sources.jar
+CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/scala-sbt/control_2.11/0.13.8-M3/control_2.11-0.13.8-M3-sources.jar
+		tried http://repo.typesafe.com/typesafe/releases/org/scala-sbt/control_2.11/0.13.8-M3/control_2.11-0.13.8-M3-javadoc.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/org/scala-sbt/control_2.11/0.13.8-M3/control_2.11-0.13.8-M3-javadoc.jar
+		tried http://repo.typesafe.com/typesafe/releases/org/scala-sbt/control_2.11/0.13.8-M3/control_2.11-0.13.8-M3-sources.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/org/scala-sbt/control_2.11/0.13.8-M3/control_2.11-0.13.8-M3-sources.jar
+		tried http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/control_2.11/0.13.8-M3/docs/control_2.11-javadoc.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/control_2.11/0.13.8-M3/docs/control_2.11-javadoc.jar
+		tried http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/control_2.11/0.13.8-M3/srcs/control_2.11-sources.jar
+Read from stdout: downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/control_2.11/0.13.8-M3/srcs/control_2.11-sources.jar ...
+downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/control_2.11/0.13.8-M3/srcs/control_2.11-sources.jar ...
+	typesafe-ivy-releasez: downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/control_2.11/0.13.8-M3/srcs/control_2.11-sources.jar
+	typesafe-ivy-releasez: downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/control_2.11/0.13.8-M3/srcs/control_2.11-sources.jar.sha1
+sha1 OK for http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/control_2.11/0.13.8-M3/srcs/control_2.11-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.scala-sbt#control_2.11;0.13.8-M3!control_2.11.jar(src) (2164ms)
+	[SUCCESSFUL ] org.scala-sbt#control_2.11;0.13.8-M3!control_2.11.jar(src) (2164ms)
+Read from stdout: 	[FAILED     ] org.scala-sbt#control_2.11;0.13.8-M3!control_2.11.jar(doc):  (0ms)
+	[FAILED     ] org.scala-sbt#control_2.11;0.13.8-M3!control_2.11.jar(doc):  (0ms)
+Read from stdout: ==== local: tried
+==== local: tried
+Read from stdout: /Users/hc2twv/.ivy2/local/org.scala-sbt/control_2.11/0.13.8-M3/docs/control_2.11-javadoc.jar
+  /Users/hc2twv/.ivy2/local/org.scala-sbt/control_2.11/0.13.8-M3/docs/control_2.11-javadoc.jar
+Read from stdout: ==== activator-launcher-local: tried
+==== activator-launcher-local: tried
+Read from stdout: /Users/hc2twv/.activator/repository/org.scala-sbt/control_2.11/0.13.8-M3/docs/control_2.11-javadoc.jar
+  /Users/hc2twv/.activator/repository/org.scala-sbt/control_2.11/0.13.8-M3/docs/control_2.11-javadoc.jar
+Read from stdout: ==== activator-local: tried
+==== activator-local: tried
+Read from stdout: /Users/hc2twv/Documents/activator/repository/org.scala-sbt/control_2.11/0.13.8-M3/docs/control_2.11-javadoc.jar
+  /Users/hc2twv/Documents/activator/repository/org.scala-sbt/control_2.11/0.13.8-M3/docs/control_2.11-javadoc.jar
+Read from stdout: ==== public: tried
+==== public: tried
+Read from stdout: https://repo1.maven.org/maven2/org/scala-sbt/control_2.11/0.13.8-M3/control_2.11-0.13.8-M3-javadoc.jar
+  https://repo1.maven.org/maven2/org/scala-sbt/control_2.11/0.13.8-M3/control_2.11-0.13.8-M3-javadoc.jar
+Read from stdout: ==== typesafe-releases: tried
+==== typesafe-releases: tried
+Read from stdout: http://repo.typesafe.com/typesafe/releases/org/scala-sbt/control_2.11/0.13.8-M3/control_2.11-0.13.8-M3-javadoc.jar
+  http://repo.typesafe.com/typesafe/releases/org/scala-sbt/control_2.11/0.13.8-M3/control_2.11-0.13.8-M3-javadoc.jar
+Read from stdout: ==== typesafe-ivy-releasez: tried
+==== typesafe-ivy-releasez: tried
+Read from stdout: http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/control_2.11/0.13.8-M3/docs/control_2.11-javadoc.jar
+  http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/control_2.11/0.13.8-M3/docs/control_2.11-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/org.scala-sbt/collections_2.11/0.13.8-M3/srcs/collections_2.11-sources.jar
+		tried /Users/hc2twv/.ivy2/local/org.scala-sbt/collections_2.11/0.13.8-M3/docs/collections_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-sbt/collections_2.11/0.13.8-M3/srcs/collections_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/org.scala-sbt/collections_2.11/0.13.8-M3/docs/collections_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-sbt/collections_2.11/0.13.8-M3/srcs/collections_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/org.scala-sbt/collections_2.11/0.13.8-M3/docs/collections_2.11-javadoc.jar
+		tried https://repo1.maven.org/maven2/org/scala-sbt/collections_2.11/0.13.8-M3/collections_2.11-0.13.8-M3-sources.jar
+CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/scala-sbt/collections_2.11/0.13.8-M3/collections_2.11-0.13.8-M3-sources.jar
+		tried https://repo1.maven.org/maven2/org/scala-sbt/collections_2.11/0.13.8-M3/collections_2.11-0.13.8-M3-javadoc.jar
+CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/scala-sbt/collections_2.11/0.13.8-M3/collections_2.11-0.13.8-M3-javadoc.jar
+		tried http://repo.typesafe.com/typesafe/releases/org/scala-sbt/collections_2.11/0.13.8-M3/collections_2.11-0.13.8-M3-sources.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/org/scala-sbt/collections_2.11/0.13.8-M3/collections_2.11-0.13.8-M3-sources.jar
+		tried http://repo.typesafe.com/typesafe/releases/org/scala-sbt/collections_2.11/0.13.8-M3/collections_2.11-0.13.8-M3-javadoc.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/org/scala-sbt/collections_2.11/0.13.8-M3/collections_2.11-0.13.8-M3-javadoc.jar
+		tried http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/collections_2.11/0.13.8-M3/srcs/collections_2.11-sources.jar
+Read from stdout: downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/collections_2.11/0.13.8-M3/srcs/collections_2.11-sources.jar ...
+downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/collections_2.11/0.13.8-M3/srcs/collections_2.11-sources.jar ...
+	typesafe-ivy-releasez: downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/collections_2.11/0.13.8-M3/srcs/collections_2.11-sources.jar
+	typesafe-ivy-releasez: downloading http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/collections_2.11/0.13.8-M3/srcs/collections_2.11-sources.jar.sha1
+sha1 OK for http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/collections_2.11/0.13.8-M3/srcs/collections_2.11-sources.jar
+Read from stdout: 	[SUCCESSFUL ] org.scala-sbt#collections_2.11;0.13.8-M3!collections_2.11.jar(src) (1989ms)
+	[SUCCESSFUL ] org.scala-sbt#collections_2.11;0.13.8-M3!collections_2.11.jar(src) (1989ms)
+		tried http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/collections_2.11/0.13.8-M3/docs/collections_2.11-javadoc.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/collections_2.11/0.13.8-M3/docs/collections_2.11-javadoc.jar
+Read from stdout: 	[FAILED     ] org.scala-sbt#collections_2.11;0.13.8-M3!collections_2.11.jar(doc):  (0ms)
+	[FAILED     ] org.scala-sbt#collections_2.11;0.13.8-M3!collections_2.11.jar(doc):  (0ms)
+Read from stdout: ==== local: tried
+==== local: tried
+Read from stdout: /Users/hc2twv/.ivy2/local/org.scala-sbt/collections_2.11/0.13.8-M3/docs/collections_2.11-javadoc.jar
+  /Users/hc2twv/.ivy2/local/org.scala-sbt/collections_2.11/0.13.8-M3/docs/collections_2.11-javadoc.jar
+Read from stdout: ==== activator-launcher-local: tried
+==== activator-launcher-local: tried
+Read from stdout: /Users/hc2twv/.activator/repository/org.scala-sbt/collections_2.11/0.13.8-M3/docs/collections_2.11-javadoc.jar
+  /Users/hc2twv/.activator/repository/org.scala-sbt/collections_2.11/0.13.8-M3/docs/collections_2.11-javadoc.jar
+Read from stdout: ==== activator-local: tried
+==== activator-local: tried
+Read from stdout: /Users/hc2twv/Documents/activator/repository/org.scala-sbt/collections_2.11/0.13.8-M3/docs/collections_2.11-javadoc.jar
+  /Users/hc2twv/Documents/activator/repository/org.scala-sbt/collections_2.11/0.13.8-M3/docs/collections_2.11-javadoc.jar
+Read from stdout: ==== public: tried
+==== public: tried
+Read from stdout: https://repo1.maven.org/maven2/org/scala-sbt/collections_2.11/0.13.8-M3/collections_2.11-0.13.8-M3-javadoc.jar
+  https://repo1.maven.org/maven2/org/scala-sbt/collections_2.11/0.13.8-M3/collections_2.11-0.13.8-M3-javadoc.jar
+Read from stdout: ==== typesafe-releases: tried
+==== typesafe-releases: tried
+Read from stdout: http://repo.typesafe.com/typesafe/releases/org/scala-sbt/collections_2.11/0.13.8-M3/collections_2.11-0.13.8-M3-javadoc.jar
+  http://repo.typesafe.com/typesafe/releases/org/scala-sbt/collections_2.11/0.13.8-M3/collections_2.11-0.13.8-M3-javadoc.jar
+Read from stdout: ==== typesafe-ivy-releasez: tried
+==== typesafe-ivy-releasez: tried
+Read from stdout: http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/collections_2.11/0.13.8-M3/docs/collections_2.11-javadoc.jar
+  http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/collections_2.11/0.13.8-M3/docs/collections_2.11-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.sbtrc/actor-client-2-11/0.3.1/srcs/actor-client-2-11-sources.jar
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.sbtrc/actor-client-2-11/0.3.1/docs/actor-client-2-11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.sbtrc/actor-client-2-11/0.3.1/srcs/actor-client-2-11-sources.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.sbtrc/actor-client-2-11/0.3.1/docs/actor-client-2-11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.sbtrc/actor-client-2-11/0.3.1/srcs/actor-client-2-11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.sbtrc/actor-client-2-11/0.3.1/docs/actor-client-2-11-javadoc.jar
+		tried https://repo1.maven.org/maven2/com/typesafe/sbtrc/actor-client-2-11/0.3.1/actor-client-2-11-0.3.1-sources.jar
+CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/com/typesafe/sbtrc/actor-client-2-11/0.3.1/actor-client-2-11-0.3.1-sources.jar
+		tried https://repo1.maven.org/maven2/com/typesafe/sbtrc/actor-client-2-11/0.3.1/actor-client-2-11-0.3.1-javadoc.jar
+CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/com/typesafe/sbtrc/actor-client-2-11/0.3.1/actor-client-2-11-0.3.1-javadoc.jar
+		tried http://repo.typesafe.com/typesafe/releases/com/typesafe/sbtrc/actor-client-2-11/0.3.1/actor-client-2-11-0.3.1-sources.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/com/typesafe/sbtrc/actor-client-2-11/0.3.1/actor-client-2-11-0.3.1-sources.jar
+		tried http://repo.typesafe.com/typesafe/releases/com/typesafe/sbtrc/actor-client-2-11/0.3.1/actor-client-2-11-0.3.1-javadoc.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/com/typesafe/sbtrc/actor-client-2-11/0.3.1/actor-client-2-11-0.3.1-javadoc.jar
+		tried http://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbtrc/actor-client-2-11/0.3.1/srcs/actor-client-2-11-sources.jar
+Read from stdout: downloading http://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbtrc/actor-client-2-11/0.3.1/srcs/actor-client-2-11-sources.jar ...
+downloading http://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbtrc/actor-client-2-11/0.3.1/srcs/actor-client-2-11-sources.jar ...
+	typesafe-ivy-releasez: downloading http://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbtrc/actor-client-2-11/0.3.1/srcs/actor-client-2-11-sources.jar
+	typesafe-ivy-releasez: downloading http://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbtrc/actor-client-2-11/0.3.1/srcs/actor-client-2-11-sources.jar.sha1
+sha1 OK for http://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbtrc/actor-client-2-11/0.3.1/srcs/actor-client-2-11-sources.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.sbtrc#actor-client-2-11;0.3.1!actor-client-2-11.jar(src) (1487ms)
+	[SUCCESSFUL ] com.typesafe.sbtrc#actor-client-2-11;0.3.1!actor-client-2-11.jar(src) (1487ms)
+		tried http://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbtrc/actor-client-2-11/0.3.1/docs/actor-client-2-11-javadoc.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbtrc/actor-client-2-11/0.3.1/docs/actor-client-2-11-javadoc.jar
+Read from stdout: 	[FAILED     ] com.typesafe.sbtrc#actor-client-2-11;0.3.1!actor-client-2-11.jar(doc):  (0ms)
+	[FAILED     ] com.typesafe.sbtrc#actor-client-2-11;0.3.1!actor-client-2-11.jar(doc):  (0ms)
+Read from stdout: ==== local: tried
+==== local: tried
+Read from stdout: /Users/hc2twv/.ivy2/local/com.typesafe.sbtrc/actor-client-2-11/0.3.1/docs/actor-client-2-11-javadoc.jar
+  /Users/hc2twv/.ivy2/local/com.typesafe.sbtrc/actor-client-2-11/0.3.1/docs/actor-client-2-11-javadoc.jar
+Read from stdout: ==== activator-launcher-local: tried
+==== activator-launcher-local: tried
+Read from stdout: /Users/hc2twv/.activator/repository/com.typesafe.sbtrc/actor-client-2-11/0.3.1/docs/actor-client-2-11-javadoc.jar
+  /Users/hc2twv/.activator/repository/com.typesafe.sbtrc/actor-client-2-11/0.3.1/docs/actor-client-2-11-javadoc.jar
+Read from stdout: ==== activator-local: tried
+==== activator-local: tried
+Read from stdout: /Users/hc2twv/Documents/activator/repository/com.typesafe.sbtrc/actor-client-2-11/0.3.1/docs/actor-client-2-11-javadoc.jar
+  /Users/hc2twv/Documents/activator/repository/com.typesafe.sbtrc/actor-client-2-11/0.3.1/docs/actor-client-2-11-javadoc.jar
+Read from stdout: ==== public: tried
+==== public: tried
+Read from stdout: https://repo1.maven.org/maven2/com/typesafe/sbtrc/actor-client-2-11/0.3.1/actor-client-2-11-0.3.1-javadoc.jar
+  https://repo1.maven.org/maven2/com/typesafe/sbtrc/actor-client-2-11/0.3.1/actor-client-2-11-0.3.1-javadoc.jar
+Read from stdout: ==== typesafe-releases: tried
+==== typesafe-releases: tried
+Read from stdout: http://repo.typesafe.com/typesafe/releases/com/typesafe/sbtrc/actor-client-2-11/0.3.1/actor-client-2-11-0.3.1-javadoc.jar
+  http://repo.typesafe.com/typesafe/releases/com/typesafe/sbtrc/actor-client-2-11/0.3.1/actor-client-2-11-0.3.1-javadoc.jar
+Read from stdout: ==== typesafe-ivy-releasez: tried
+==== typesafe-ivy-releasez: tried
+Read from stdout: http://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbtrc/actor-client-2-11/0.3.1/docs/actor-client-2-11-javadoc.jar
+  http://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbtrc/actor-client-2-11/0.3.1/docs/actor-client-2-11-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.akka/akka-actor_2.11/2.3.8/srcs/akka-actor_2.11-sources.jar
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.akka/akka-actor_2.11/2.3.8/docs/akka-actor_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.akka/akka-actor_2.11/2.3.8/srcs/akka-actor_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.akka/akka-actor_2.11/2.3.8/docs/akka-actor_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.akka/akka-actor_2.11/2.3.8/srcs/akka-actor_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.akka/akka-actor_2.11/2.3.8/docs/akka-actor_2.11-javadoc.jar
+		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.8/akka-actor_2.11-2.3.8-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.8/akka-actor_2.11-2.3.8-sources.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.8/akka-actor_2.11-2.3.8-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.8/akka-actor_2.11-2.3.8-sources.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.8/akka-actor_2.11-2.3.8-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.8/akka-actor_2.11-2.3.8-sources.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.11;2.3.8!akka-actor_2.11.jar(src) (338ms)
+	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.11;2.3.8!akka-actor_2.11.jar(src) (338ms)
+		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.8/akka-actor_2.11-2.3.8-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.8/akka-actor_2.11-2.3.8-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.8/akka-actor_2.11-2.3.8-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.8/akka-actor_2.11-2.3.8-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.8/akka-actor_2.11-2.3.8-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.8/akka-actor_2.11-2.3.8-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.11;2.3.8!akka-actor_2.11.jar(doc) (692ms)
+	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.11;2.3.8!akka-actor_2.11.jar(doc) (692ms)
+	[NOT REQUIRED] com.typesafe#config;1.2.1!config.jar(doc)
+	[NOT REQUIRED] com.typesafe#config;1.2.1!config.jar(src)
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.akka/akka-testkit_2.11/2.3.8/docs/akka-testkit_2.11-javadoc.jar
+		tried /Users/hc2twv/.ivy2/local/com.typesafe.akka/akka-testkit_2.11/2.3.8/srcs/akka-testkit_2.11-sources.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.akka/akka-testkit_2.11/2.3.8/docs/akka-testkit_2.11-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/com.typesafe.akka/akka-testkit_2.11/2.3.8/srcs/akka-testkit_2.11-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.akka/akka-testkit_2.11/2.3.8/docs/akka-testkit_2.11-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/com.typesafe.akka/akka-testkit_2.11/2.3.8/srcs/akka-testkit_2.11-sources.jar
+		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.8/akka-testkit_2.11-2.3.8-javadoc.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.8/akka-testkit_2.11-2.3.8-javadoc.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.8/akka-testkit_2.11-2.3.8-javadoc.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.8/akka-testkit_2.11-2.3.8-javadoc.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.8/akka-testkit_2.11-2.3.8-javadoc.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.8/akka-testkit_2.11-2.3.8-javadoc.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.akka#akka-testkit_2.11;2.3.8!akka-testkit_2.11.jar(doc) (265ms)
+	[SUCCESSFUL ] com.typesafe.akka#akka-testkit_2.11;2.3.8!akka-testkit_2.11.jar(doc) (265ms)
+		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.8/akka-testkit_2.11-2.3.8-sources.jar
+Read from stdout: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.8/akka-testkit_2.11-2.3.8-sources.jar ...
+downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.8/akka-testkit_2.11-2.3.8-sources.jar ...
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.8/akka-testkit_2.11-2.3.8-sources.jar
+	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.8/akka-testkit_2.11-2.3.8-sources.jar.sha1
+sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.8/akka-testkit_2.11-2.3.8-sources.jar
+Read from stdout: 	[SUCCESSFUL ] com.typesafe.akka#akka-testkit_2.11;2.3.8!akka-testkit_2.11.jar(src) (204ms)
+	[SUCCESSFUL ] com.typesafe.akka#akka-testkit_2.11;2.3.8!akka-testkit_2.11.jar(src) (204ms)
+		tried /Users/hc2twv/.ivy2/local/net.contentobjects.jnotify/jnotify/0.94-play-1/srcs/jnotify-sources.jar
+		tried /Users/hc2twv/.ivy2/local/net.contentobjects.jnotify/jnotify/0.94-play-1/docs/jnotify-javadoc.jar
+		tried /Users/hc2twv/.activator/repository/net.contentobjects.jnotify/jnotify/0.94-play-1/srcs/jnotify-sources.jar
+		tried /Users/hc2twv/.activator/repository/net.contentobjects.jnotify/jnotify/0.94-play-1/docs/jnotify-javadoc.jar
+		tried /Users/hc2twv/Documents/activator/repository/net.contentobjects.jnotify/jnotify/0.94-play-1/srcs/jnotify-sources.jar
+		tried /Users/hc2twv/Documents/activator/repository/net.contentobjects.jnotify/jnotify/0.94-play-1/docs/jnotify-javadoc.jar
+		tried https://repo1.maven.org/maven2/net/contentobjects/jnotify/jnotify/0.94-play-1/jnotify-0.94-play-1-sources.jar
+CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/net/contentobjects/jnotify/jnotify/0.94-play-1/jnotify-0.94-play-1-sources.jar
+		tried https://repo1.maven.org/maven2/net/contentobjects/jnotify/jnotify/0.94-play-1/jnotify-0.94-play-1-javadoc.jar
+CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/net/contentobjects/jnotify/jnotify/0.94-play-1/jnotify-0.94-play-1-javadoc.jar
+		tried http://repo.typesafe.com/typesafe/releases/net/contentobjects/jnotify/jnotify/0.94-play-1/jnotify-0.94-play-1-sources.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/net/contentobjects/jnotify/jnotify/0.94-play-1/jnotify-0.94-play-1-sources.jar
+		tried http://repo.typesafe.com/typesafe/releases/net/contentobjects/jnotify/jnotify/0.94-play-1/jnotify-0.94-play-1-javadoc.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/net/contentobjects/jnotify/jnotify/0.94-play-1/jnotify-0.94-play-1-javadoc.jar
+		tried http://repo.typesafe.com/typesafe/ivy-releases/net.contentobjects.jnotify/jnotify/0.94-play-1/srcs/jnotify-sources.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/ivy-releases/net.contentobjects.jnotify/jnotify/0.94-play-1/srcs/jnotify-sources.jar
+		tried http://repo.typesafe.com/typesafe/ivy-releases/net.contentobjects.jnotify/jnotify/0.94-play-1/docs/jnotify-javadoc.jar
+CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/ivy-releases/net.contentobjects.jnotify/jnotify/0.94-play-1/docs/jnotify-javadoc.jar
+Read from stdout: 	[FAILED     ] net.contentobjects.jnotify#jnotify;0.94-play-1!jnotify.jar(src):  (0ms)
+	[FAILED     ] net.contentobjects.jnotify#jnotify;0.94-play-1!jnotify.jar(src):  (0ms)
+Read from stdout: ==== local: tried
+==== local: tried
+Read from stdout: /Users/hc2twv/.ivy2/local/net.contentobjects.jnotify/jnotify/0.94-play-1/srcs/jnotify-sources.jar
+  /Users/hc2twv/.ivy2/local/net.contentobjects.jnotify/jnotify/0.94-play-1/srcs/jnotify-sources.jar
+Read from stdout: ==== activator-launcher-local: tried
+==== activator-launcher-local: tried
+Read from stdout: /Users/hc2twv/.activator/repository/net.contentobjects.jnotify/jnotify/0.94-play-1/srcs/jnotify-sources.jar
+  /Users/hc2twv/.activator/repository/net.contentobjects.jnotify/jnotify/0.94-play-1/srcs/jnotify-sources.jar
+Read from stdout: ==== activator-local: tried
+==== activator-local: tried
+Read from stdout: /Users/hc2twv/Documents/activator/repository/net.contentobjects.jnotify/jnotify/0.94-play-1/srcs/jnotify-sources.jar
+  /Users/hc2twv/Documents/activator/repository/net.contentobjects.jnotify/jnotify/0.94-play-1/srcs/jnotify-sources.jar
+Read from stdout: ==== public: tried
+==== public: tried
+Read from stdout: https://repo1.maven.org/maven2/net/contentobjects/jnotify/jnotify/0.94-play-1/jnotify-0.94-play-1-sources.jar
+  https://repo1.maven.org/maven2/net/contentobjects/jnotify/jnotify/0.94-play-1/jnotify-0.94-play-1-sources.jar
+Read from stdout: ==== typesafe-releases: tried
+==== typesafe-releases: tried
+Read from stdout: http://repo.typesafe.com/typesafe/releases/net/contentobjects/jnotify/jnotify/0.94-play-1/jnotify-0.94-play-1-sources.jar
+  http://repo.typesafe.com/typesafe/releases/net/contentobjects/jnotify/jnotify/0.94-play-1/jnotify-0.94-play-1-sources.jar
+Read from stdout: ==== typesafe-ivy-releasez: tried
+==== typesafe-ivy-releasez: tried
+Read from stdout: http://repo.typesafe.com/typesafe/ivy-releases/net.contentobjects.jnotify/jnotify/0.94-play-1/srcs/jnotify-sources.jar
+  http://repo.typesafe.com/typesafe/ivy-releases/net.contentobjects.jnotify/jnotify/0.94-play-1/srcs/jnotify-sources.jar
+Read from stdout: 	[FAILED     ] net.contentobjects.jnotify#jnotify;0.94-play-1!jnotify.jar(doc):  (0ms)
+	[FAILED     ] net.contentobjects.jnotify#jnotify;0.94-play-1!jnotify.jar(doc):  (0ms)
+Read from stdout: ==== local: tried
+==== local: tried
+Read from stdout: /Users/hc2twv/.ivy2/local/net.contentobjects.jnotify/jnotify/0.94-play-1/docs/jnotify-javadoc.jar
+  /Users/hc2twv/.ivy2/local/net.contentobjects.jnotify/jnotify/0.94-play-1/docs/jnotify-javadoc.jar
+Read from stdout: ==== activator-launcher-local: tried
+==== activator-launcher-local: tried
+Read from stdout: /Users/hc2twv/.activator/repository/net.contentobjects.jnotify/jnotify/0.94-play-1/docs/jnotify-javadoc.jar
+  /Users/hc2twv/.activator/repository/net.contentobjects.jnotify/jnotify/0.94-play-1/docs/jnotify-javadoc.jar
+Read from stdout: ==== activator-local: tried
+==== activator-local: tried
+Read from stdout: /Users/hc2twv/Documents/activator/repository/net.contentobjects.jnotify/jnotify/0.94-play-1/docs/jnotify-javadoc.jar
+  /Users/hc2twv/Documents/activator/repository/net.contentobjects.jnotify/jnotify/0.94-play-1/docs/jnotify-javadoc.jar
+Read from stdout: ==== public: tried
+==== public: tried
+Read from stdout: https://repo1.maven.org/maven2/net/contentobjects/jnotify/jnotify/0.94-play-1/jnotify-0.94-play-1-javadoc.jar
+  https://repo1.maven.org/maven2/net/contentobjects/jnotify/jnotify/0.94-play-1/jnotify-0.94-play-1-javadoc.jar
+Read from stdout: ==== typesafe-releases: tried
+==== typesafe-releases: tried
+Read from stdout: http://repo.typesafe.com/typesafe/releases/net/contentobjects/jnotify/jnotify/0.94-play-1/jnotify-0.94-play-1-javadoc.jar
+  http://repo.typesafe.com/typesafe/releases/net/contentobjects/jnotify/jnotify/0.94-play-1/jnotify-0.94-play-1-javadoc.jar
+Read from stdout: ==== typesafe-ivy-releasez: tried
+==== typesafe-ivy-releasez: tried
+Read from stdout: http://repo.typesafe.com/typesafe/ivy-releases/net.contentobjects.jnotify/jnotify/0.94-play-1/docs/jnotify-javadoc.jar
+  http://repo.typesafe.com/typesafe/ivy-releases/net.contentobjects.jnotify/jnotify/0.94-play-1/docs/jnotify-javadoc.jar
+:: resolution report :: resolve 7856ms :: artifacts dl 173215ms
+Read from stdout: 	::::::::::::::::::::::::::::::::::::::::::::::
+	::::::::::::::::::::::::::::::::::::::::::::::
+Read from stdout: 	::              FAILED DOWNLOADS            ::
+	::              FAILED DOWNLOADS            ::
+Read from stdout: 	:: ^ see resolution messages for details  ^ ::
+	:: ^ see resolution messages for details  ^ ::
+Read from stdout: 	::::::::::::::::::::::::::::::::::::::::::::::
+	::::::::::::::::::::::::::::::::::::::::::::::
+Read from stdout: 	:: javax.transaction#jta;1.1!jta.jar(doc)
+	:: javax.transaction#jta;1.1!jta.jar(doc)
+Read from stdout: 	:: aopalliance#aopalliance;1.0!aopalliance.jar(doc)
+	:: aopalliance#aopalliance;1.0!aopalliance.jar(doc)
+Read from stdout: 	:: jline#jline;0.9.94!jline.jar(doc)
+	:: jline#jline;0.9.94!jline.jar(doc)
+Read from stdout: 	:: org.w3c.css#sac;1.3!sac.jar(doc)
+	:: org.w3c.css#sac;1.3!sac.jar(doc)
+Read from stdout: 	:: org.seleniumhq.selenium#selenium-java;2.48.2!selenium-java.jar(src)
+	:: org.seleniumhq.selenium#selenium-java;2.48.2!selenium-java.jar(src)
+Read from stdout: 	:: org.seleniumhq.selenium#selenium-java;2.48.2!selenium-java.jar(doc)
+	:: org.seleniumhq.selenium#selenium-java;2.48.2!selenium-java.jar(doc)
+Read from stdout: 	:: cglib#cglib-nodep;2.1_3!cglib-nodep.jar(doc)
+	:: cglib#cglib-nodep;2.1_3!cglib-nodep.jar(doc)
+Read from stdout: 	:: com.typesafe.sbtrc#client-2-11;0.3.1!client-2-11.jar(doc)
+	:: com.typesafe.sbtrc#client-2-11;0.3.1!client-2-11.jar(doc)
+Read from stdout: 	:: org.scala-sbt#serialization_2.11;0.1.0!serialization_2.11.jar(doc)
+	:: org.scala-sbt#serialization_2.11;0.1.0!serialization_2.11.jar(doc)
+Read from stdout: 	:: org.scala-sbt#launcher-interface;0.13.8-M3!launcher-interface.jar(doc)
+	:: org.scala-sbt#launcher-interface;0.13.8-M3!launcher-interface.jar(doc)
+Read from stdout: 	:: org.scala-sbt#interface;0.13.8-M3!interface.jar(doc)
+	:: org.scala-sbt#interface;0.13.8-M3!interface.jar(doc)
+Read from stdout: 	:: org.scala-sbt#io_2.11;0.13.8-M3!io_2.11.jar(doc)
+	:: org.scala-sbt#io_2.11;0.13.8-M3!io_2.11.jar(doc)
+Read from stdout: 	:: org.scala-sbt#control_2.11;0.13.8-M3!control_2.11.jar(doc)
+	:: org.scala-sbt#control_2.11;0.13.8-M3!control_2.11.jar(doc)
+Read from stdout: 	:: org.scala-sbt#collections_2.11;0.13.8-M3!collections_2.11.jar(doc)
+	:: org.scala-sbt#collections_2.11;0.13.8-M3!collections_2.11.jar(doc)
+Read from stdout: 	:: com.typesafe.sbtrc#actor-client-2-11;0.3.1!actor-client-2-11.jar(doc)
+	:: com.typesafe.sbtrc#actor-client-2-11;0.3.1!actor-client-2-11.jar(doc)
+Read from stdout: 	:: net.contentobjects.jnotify#jnotify;0.94-play-1!jnotify.jar(src)
+	:: net.contentobjects.jnotify#jnotify;0.94-play-1!jnotify.jar(src)
+Read from stdout: 	:: net.contentobjects.jnotify#jnotify;0.94-play-1!jnotify.jar(doc)
+	:: net.contentobjects.jnotify#jnotify;0.94-play-1!jnotify.jar(doc)
+Read from stdout: 	::::::::::::::::::::::::::::::::::::::::::::::
+	::::::::::::::::::::::::::::::::::::::::::::::
+
+	report for default#reactive-kafka-scala$sources_javadoc_2.11;3.0 compile produced in /Users/hc2twv/reactive-kafka-scala/target/resolution-cache/reports/default-reactive-kafka-scala$sources_javadoc_2.11-compile.xml
+	report for default#reactive-kafka-scala$sources_javadoc_2.11;3.0 runtime produced in /Users/hc2twv/reactive-kafka-scala/target/resolution-cache/reports/default-reactive-kafka-scala$sources_javadoc_2.11-runtime.xml
+	report for default#reactive-kafka-scala$sources_javadoc_2.11;3.0 test produced in /Users/hc2twv/reactive-kafka-scala/target/resolution-cache/reports/default-reactive-kafka-scala$sources_javadoc_2.11-test.xml
+	report for default#reactive-kafka-scala$sources_javadoc_2.11;3.0 provided produced in /Users/hc2twv/reactive-kafka-scala/target/resolution-cache/reports/default-reactive-kafka-scala$sources_javadoc_2.11-provided.xml
+	report for default#reactive-kafka-scala$sources_javadoc_2.11;3.0 optional produced in /Users/hc2twv/reactive-kafka-scala/target/resolution-cache/reports/default-reactive-kafka-scala$sources_javadoc_2.11-optional.xml
+	report for default#reactive-kafka-scala$sources_javadoc_2.11;3.0 compile-internal produced in /Users/hc2twv/reactive-kafka-scala/target/resolution-cache/reports/default-reactive-kafka-scala$sources_javadoc_2.11-compile-internal.xml
+	report for default#reactive-kafka-scala$sources_javadoc_2.11;3.0 runtime-internal produced in /Users/hc2twv/reactive-kafka-scala/target/resolution-cache/reports/default-reactive-kafka-scala$sources_javadoc_2.11-runtime-internal.xml
+	report for default#reactive-kafka-scala$sources_javadoc_2.11;3.0 test-internal produced in /Users/hc2twv/reactive-kafka-scala/target/resolution-cache/reports/default-reactive-kafka-scala$sources_javadoc_2.11-test-internal.xml
+	report for default#reactive-kafka-scala$sources_javadoc_2.11;3.0 plugin produced in /Users/hc2twv/reactive-kafka-scala/target/resolution-cache/reports/default-reactive-kafka-scala$sources_javadoc_2.11-plugin.xml
+	report for default#reactive-kafka-scala$sources_javadoc_2.11;3.0 sources produced in /Users/hc2twv/reactive-kafka-scala/target/resolution-cache/reports/default-reactive-kafka-scala$sources_javadoc_2.11-sources.xml
+	report for default#reactive-kafka-scala$sources_javadoc_2.11;3.0 docs produced in /Users/hc2twv/reactive-kafka-scala/target/resolution-cache/reports/default-reactive-kafka-scala$sources_javadoc_2.11-docs.xml
+	report for default#reactive-kafka-scala$sources_javadoc_2.11;3.0 pom produced in /Users/hc2twv/reactive-kafka-scala/target/resolution-cache/reports/default-reactive-kafka-scala$sources_javadoc_2.11-pom.xml
+	report for default#reactive-kafka-scala$sources_javadoc_2.11;3.0 scala-tool produced in /Users/hc2twv/reactive-kafka-scala/target/resolution-cache/reports/default-reactive-kafka-scala$sources_javadoc_2.11-scala-tool.xml
+	report for default#reactive-kafka-scala$sources_javadoc_2.11;3.0 fork-run produced in /Users/hc2twv/reactive-kafka-scala/target/resolution-cache/reports/default-reactive-kafka-scala$sources_javadoc_2.11-fork-run.xml
+	resolve done (7856ms resolve - 173215ms download)
+Running task... Cancel: sbt.server.ServerTaskCancellation@f968a1c, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@99ad10a, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@5b2d0645, check cycles: false
+Excluding folder target
+
+Created /Users/hc2twv/reactive-kafka-scala/.idea/IdeaProject.iml
+Deleted existing library files
+Created /Users/hc2twv/reactive-kafka-scala/.idea
+Excluding folder /Users/hc2twv/reactive-kafka-scala/target/scala-2.11/classes
+
+Excluding folder /Users/hc2twv/reactive-kafka-scala/target/resolution-cache
+
+Excluding folder /Users/hc2twv/reactive-kafka-scala/target/streams
+
+Created /Users/hc2twv/reactive-kafka-scala/.idea_modules/reactive-kafka-scala.iml
+Created /Users/hc2twv/reactive-kafka-scala/.idea_modules/reactive-kafka-scala-build.iml
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/hc2twv/reactive-kafka-scala/}reactive-kafka-scala/compile:discoveredMainClasses
+Evaluating tasks: compile:discoveredMainClasses
+Running task... Cancel: sbt.server.ServerTaskCancellation@7cd72bc5, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Total time: 0 s, completed 16-dic-2016 20:53:43
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/hc2twv/reactive-kafka-scala/}reactive-kafka-scala/compile:mainClass
+Evaluating tasks: compile:mainClass
+Running task... Cancel: sbt.server.ServerTaskCancellation@27ce0f74, check cycles: false
+Total time: 0 s, completed 16-dic-2016 20:53:43
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/hc2twv/reactive-kafka-scala/}reactive-kafka-scala/compile:discoveredMainClasses
+Evaluating tasks: compile:discoveredMainClasses
+Running task... Cancel: sbt.server.ServerTaskCancellation@58816a60, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Total time: 0 s, completed 16-dic-2016 20:53:43
+> server-post-command-cleanup
+> server-handle-next-server-request
+Done executing sbt server engine, result Right(Exit(0))
+Closing listening server socket
+Waiting for socket thread
+Waiting for request processor thread
+Waiting for command engine result
+Returning control to sbt launcher with result Exit(0)
+Closing the 4349@Washington.local logs at Fri Dec 16 20:55:59 CET 2016, goodbye.

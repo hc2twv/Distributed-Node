@@ -1,0 +1,15 @@
+New log file opened at Fri Dec 16 20:50:10 CET 2016 by 4349@Washington.local
+Taking next connection to: 52080
+New client attempting to connect on port: 52081-52080
+  Address = /192.168.0.154:52080
+This client on port 52081 has uuid faa06c40-3dd5-4637-a1bf-eaf288e398b7 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-faa06c40-3dd5-4637-a1bf-eaf288e398b7
+Taking next connection to: 52080
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 52080
+Server socket closed java.net.SocketException: Socket closed
+Server socket thread exiting.
+1 clients open, will close them...
+All client sockets have been closed.
+Closing the 4349@Washington.local logs at Fri Dec 16 20:55:59 CET 2016, goodbye.
