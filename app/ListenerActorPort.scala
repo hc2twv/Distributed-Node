@@ -51,7 +51,7 @@ class ListenerActorPort(nextActor: ActorRef) extends Actor {
       case "X" =>
         cntCO2 = cntCO2+1
         new CO2Message(dat(0),dat(1),dat(2),dat(3),dat(4),dat(5))
-      case _ => new Message {}
+      case _ => new Message {msj}
     }
     println("Contadores: "+cntTMP+" "+cntVLL+" "+cntPLG+" "+cntCO+" "+cntCO2)
     return typeMessage

@@ -20,7 +20,7 @@ object ProducerStreamData {
 
       val msgStreamTmp = Stream.continually{
         //Random.alphanumeric.take(10).mkString
-        //ID Node : MAC Xbee : Value : Cheksum
+        //ID qwsqws : MAC Xbee : Value : Cheksum
         Random.nextInt(100).toString()+":"+Random.alphanumeric.take(10).mkString+":"+Random.nextInt(100).toString()+":"+"0000"
       }.take(1)
 

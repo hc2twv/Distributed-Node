@@ -17,9 +17,11 @@ object DisApp extends App{
 
 
     //Consumers
-    val BasicConsumerAl = kafkaCluster.consumers.ConsKafka("127.0.0.1","AL",master,"1","6000")
+    val BasicConsumerAl = kafkaCluster.consumers.ConsKafka("192.168.0.161","AL",master,"1","6000")
     BasicConsumerAl.subscribe("AL")
     BasicConsumerAl.read("AL")
+
+
 
     //println(BasicConsumerAl.read("AL"))
     //new Thread(BasicConsumerAl).start()

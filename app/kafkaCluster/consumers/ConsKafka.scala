@@ -47,7 +47,7 @@ case class ConsKafka(zooKeeper: String, topic: String, nextActor: ActorRef, grou
       if(topic == "AL"){
         println("Alarm message received: "+data)//AlarmMessage
         val params = data.split(":")
-        nextActor ! new AlarmMessage(params(0),params(1),params(2),params(3))
+        //nextActor ! new AlarmMessage(params(0),params(1),params(2),params(3))
       }
     }
   }

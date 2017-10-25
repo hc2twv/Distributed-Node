@@ -1,9 +1,13 @@
 
+import java.util.{Calendar, Date}
+
 import akka.actor.{Actor, Address, Props, ReceiveTimeout, Terminated}
 import akka.remote.routing.RemoteRouterConfig
 import akka.routing.{ActorRefRoutee, RoundRobinPool, RoundRobinRoutingLogic, Router}
 import communication._
 import kafkaCluster.producers.Producer
+import org.joda.time.Days
+import org.scalatest.time.Minutes
 
 class MasterActor extends Actor {
 
@@ -15,57 +19,119 @@ class MasterActor extends Actor {
   val strProducerCO = Producer[String]("CO")
   val strProducerVLL = Producer[String]("VLL")
   val strProducerAL = Producer[String]("AL")
+
+  var initialDate = Calendar.getInstance().getTime();
+  var alarm = 0;
+  var finalDate = Calendar.getInstance().getTime();
   //val connMysql = MysqlDB()
   def receive: Receive = {
 
     case msj: AlarmMessage => signalingActivation(msj)
     case msj: CO2Message =>
-      strProducerCO2.sendStream(Stream.continually{msj.toString}.take(1))
-      strProducerBD.sendStream(Stream.continually{msj.toString}.take(1))
-      if (msj.value.toInt >  400) {
-        val al = new AlarmMessage(msj.id_node,"O1","01","CHK")
-        strProducerAL.sendStream(Stream.continually {
-          al.toString
+      if(alarm == 0) {
+        initialDate = Calendar.getInstance().getTime();
+      }
+      if(diferenciaEnMin(Calendar.getInstance().getTime(), initialDate) < 15) {
+        strProducerCO2.sendStream(Stream.continually {
+          msj.toString
         }.take(1))
+        strProducerBD.sendStream(Stream.continually {
+          msj.toString
+        }.take(1))
+        /*if (msj.value.toFloat > 400) {
+          val al = new AlarmMessage(msj.id_node, "O1", "01", "CHK")
+          strProducerAL.sendStream(Stream.continually {
+            al.toString
+          }.take(1))
+        }*/
       }
     case msj: COMessage =>
-      strProducerCO.sendStream(Stream.continually{msj.toString}.take(1))
-      strProducerBD.sendStream(Stream.continually{msj.toString}.take(1))
-      if (msj.value.toInt >  200) {
-        val al = new AlarmMessage(msj.id_node,"O1","01","CHK")
-        strProducerAL.sendStream(Stream.continually {
-          al.toString
+      if(alarm == 0) {
+        initialDate = Calendar.getInstance().getTime();
+      }
+      if(diferenciaEnMin(Calendar.getInstance().getTime(), initialDate) < 15) {
+        strProducerCO.sendStream(Stream.continually {
+          msj.toString
         }.take(1))
+        strProducerBD.sendStream(Stream.continually {
+          msj.toString
+        }.take(1))
+        /*if (msj.value.toFloat > 200) {
+          val al = new AlarmMessage(msj.id_node, "O2", "01", "CHK")
+          strProducerAL.sendStream(Stream.continually {
+            al.toString
+          }.take(1))
+        }*/
       }
     case msj: PLGMessage =>
-      strProducerPLG.sendStream(Stream.continually{msj.toString}.take(1))
-      strProducerBD.sendStream(Stream.continually{msj.toString}.take(1))
-      if (msj.value.toInt >  750) {
-        val al = new AlarmMessage(msj.id_node,"O1","01","CHK")
-        strProducerAL.sendStream(Stream.continually {
-          al.toString
+      if(alarm == 0) {
+        initialDate = Calendar.getInstance().getTime();
+      }
+      if(diferenciaEnMin(Calendar.getInstance().getTime(), initialDate) < 15) {
+        strProducerPLG.sendStream(Stream.continually {
+          msj.toString
         }.take(1))
+        strProducerBD.sendStream(Stream.continually {
+          msj.toString
+        }.take(1))
+        /*if (msj.value.toFloat > 750) {
+          val al = new AlarmMessage(msj.id_node, "O3", "01", "CHK")
+          strProducerAL.sendStream(Stream.continually {
+            al.toString
+          }.take(1))
+        }*/
       }
     case msj: TmpMessage =>
-      strProducerTemp.sendStream(Stream.continually{msj.toString}.take(1))
-      strProducerBD.sendStream(Stream.continually{msj.toString}.take(1))
-      if (msj.value.toInt >  40) {
-        val al = new AlarmMessage(msj.id_node,"O1","01","CHK")
-        strProducerAL.sendStream(Stream.continually {
-          al.toString
+      if(alarm == 0) {
+        initialDate = Calendar.getInstance().getTime();
+      }
+      if(diferenciaEnMin(Calendar.getInstance().getTime(), initialDate) < 15) {
+        strProducerTemp.sendStream(Stream.continually {
+          msj.toString
         }.take(1))
+        strProducerBD.sendStream(Stream.continually {
+          msj.toString
+        }.take(1))
+        if (diferenciaEnMin(Calendar.getInstance().getTime(), initialDate) > 2) {
+          if (msj.value.toFloat > 35) {
+            val al = new AlarmMessage(msj.id_node, "O4", "01", "CHK")
+            strProducerAL.sendStream(Stream.continually {
+              al.toString
+            }.take(1))
+          }
+        }
+        /*if (msj.value.toFloat > 40) {
+          val al = new AlarmMessage(msj.id_node, "O4", "01", "CHK")
+          strProducerAL.sendStream(Stream.continually {
+            al.toString
+          }.take(1))
+        }*/
       }
     case msj: VLLMessage =>
-      strProducerVLL.sendStream(Stream.continually{msj.toString}.take(1))
-      strProducerBD.sendStream(Stream.continually{msj.toString}.take(1))
-      if (msj.value.toInt >  100) {
-        val al = new AlarmMessage(msj.id_node,"O1","01","CHK")
-        strProducerAL.sendStream(Stream.continually {
-          al.toString
-        }.take(1))
+      if(alarm == 0) {
+        initialDate = Calendar.getInstance().getTime();
       }
-    case msj: String => //Data gets from the sensors
+      if(diferenciaEnMin(Calendar.getInstance().getTime(), initialDate) < 15) {
+        strProducerVLL.sendStream(Stream.continually {
+          msj.toString
+        }.take(1))
+        strProducerBD.sendStream(Stream.continually {
+          msj.toString
+        }.take(1))
+        /*if (msj.value.toFloat > 100) {
+          val al = new AlarmMessage(msj.id_node, "O5", "01", "CHK")
+          strProducerAL.sendStream(Stream.continually {
+            al.toString
+          }.take(1))
+        }*/
+      }
+    case msj: Message => //Data gets from the sensors
       println(msj)
+      initialDate = Calendar.getInstance().getTime()
+      alarm = 1
+      println("Here")
+      if (alarm == 1)
+        alarm= 0
 
     case ReceiveTimeout =>
     // ignore
@@ -78,6 +144,13 @@ class MasterActor extends Actor {
       val selection = context.actorSelection(line)
       selection ! msj
     }
+  }
+
+  def diferenciaEnMin(fechaMayor: Date, fechaMenor: Date): Int = {
+    val diferenciaEn_ms = fechaMayor.getTime - fechaMenor.getTime
+    val min = diferenciaEn_ms / (1000 * 60)
+    //println(min)
+    return min.toInt
   }
 
 }

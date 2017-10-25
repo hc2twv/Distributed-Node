@@ -5,5 +5,3 @@ akka.tcp://Sys@127.0.0.1:4004/user/slave
 akka.tcp://Sys@127.0.0.1:4005/user/slave
 akka.tcp://Sys@127.0.0.1:4006/user/slave
 akka.tcp://Sys@127.0.0.1:4007/user/slave
-akka.tcp://Sys@127.0.0.1:4008/user/slave
-akka.tcp://Sys@127.0.0.1:4009/user/slave
